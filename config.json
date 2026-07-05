@@ -1,0 +1,16 @@
+{
+  "channelLists": [
+    {
+      "title": "Favorites",
+      "category": [],
+      "isdefault": true
+    },
+    {
+      "title": "Kids Channels",
+      "category": [
+        "|AR| ✪ KIDS ENTERTAINMENT"
+      ],
+      "isdefault": false
+    }
+  ]
+}
