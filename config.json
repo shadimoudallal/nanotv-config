@@ -13,7 +13,7 @@
         },
         {
           "category": "|AR| ✪ ARABIC NEWS",
-          "channels": ["aljazeera", "al arabiya", "sky news arabia", "al araby"]
+          "channels": ["aljazeera", "al arabiya", "sky news arabiya", "al araby"]
         }
       ],
       "isdefault": true
