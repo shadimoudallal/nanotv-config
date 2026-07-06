@@ -4,14 +4,17 @@
       "title": "Channels",
       "streams": [
         {
+          "provider_id": 1,
           "category": "|AR| ✪ FIFA WORLD CUP 2026",
           "channels": ["beIN SPORTS MAX 1", "beIN SPORTS MAX 2"]
         },
         {
+          "provider_id": 1,
           "category": "|AR| ✪ LEBANON",
           "channels": ["mtv lebanon", "al jadeed", "lbc international", "al mashhad"]
         },
         {
+          "provider_id": 1,
           "category": "|AR| ✪ ARABIC NEWS",
           "channels": ["aljazeera", "al arabiya", "sky news arabiya", "al araby"]
         }
@@ -22,6 +25,7 @@
       "title": "Kids Channels",
       "streams": [
         {
+          "provider_id": 1,
           "category": "|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7",
           "channels": []
         }
