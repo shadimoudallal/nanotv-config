@@ -31,6 +31,36 @@
       ]
     },
     {
+      "title": "Kids Channels 2",
+      "streams": [
+        {
+          "provider_id": 2,
+          "category": "|AR| ☺ KIDS  اطفال",
+          "group": false
+        },
+        {
+          "provider_id": 2,
+          "category": "|AR| ☺ CARTOONS كرتون",
+          "group": false
+        },
+        {
+          "provider_id": 2,
+          "category": "|AR| ☺ Disney  ديزني",
+          "group": false
+        },
+        {
+          "provider_id": 2,
+          "category": "EN - 24x7 Animation - Exclusive",
+          "group": false
+        },
+        {
+          "provider_id": 2,
+          "category": "EN - 24x7 Kids - Exclusive",
+          "group": false
+        }
+      ]
+    },
+    {
       "title": "Movies",
       "streams": [
         {
