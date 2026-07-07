@@ -27,10 +27,6 @@
           "channels": ["|KIDS| bein Boomerang.", "|KIDS| beIN Cart Net Bein AR", "|KIDS| MBC 3", "|KIDS| Movies Kids", "|KIDS| OSN Nicktoons", "|KIDS| Rotana Kids", "|KIDS| SASUKI", "|KIDS| SPACETOON", "|KIDS| Tom and jerry"],
           "exclude":[],
           "group": false
-        },
-        {
-          "category": "|AR| ✪ PLUTO MOVIES",
-          "group": false
         }
       ]
     },
@@ -47,6 +43,10 @@
         },
         {
           "category": "|AR| ✪ PRIME MOVIES",
+          "group": false
+        },
+        {
+          "category": "|AR| ✪ PLUTO MOVIES",
           "group": false
         }
       ]
