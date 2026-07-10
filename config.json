@@ -2,35 +2,232 @@
   "channelLists": [
     {
       "title": "Channels",
-      "streams": [
+      "categories": [
         {
           "category": "|AR| ✪ FIFA WORLD CUP 2026",
           "channels": [
-            "beIN SPORTS MAX 1",
-            "beIN SPORTS MAX 2",
-            "beIN SPORTS MAX 3",
-            "beIN SPORTS MAX 4",
-            "beIN SPORTS MAX 5",
-            "beIN SPORTS MAX 6"
+            {
+              "name": "beIN SPORTS MAX 1",
+              "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png",
+              "streams": [
+                "beIN SPORTS MAX 1",
+                "Bein Sports Max 1 4K°",
+                "Bein Sports Max 1 FHD°",
+                "Bein Sports Max 1 HD°",
+                "Bein Sports Max 1 SD°",
+                "beIN SPORTS MAX 1 ULTRA ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 2",
+              "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-800x500.png",
+              "streams": [
+                "beIN SPORTS MAX 2",
+                "Bein Sports Max 2 4K°",
+                "Bein Sports Max 2 FHD°",
+                "Bein Sports Max 2 HD°",
+                "Bein Sports Max 2 SD°",
+                "beIN SPORTS MAX 2 ULTRA ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 3",
+              "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-1.png",
+              "streams": [
+                "beIN SPORTS MAX 3",
+                "Bein Sports Max 3 4K°",
+                "Bein Sports Max 3 FHD°",
+                "Bein Sports Max 3 HD°",
+                "Bein Sports Max 3 SD°",
+                "beIN SPORTS MAX 3 ULTRA ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 4",
+              "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-2.png",
+              "streams": [
+                "beIN SPORTS MAX 4",
+                "beIN Sports MAX 4  HD",
+                "beIN SPORTS MAX 4  ULTRA ᵁᴴᴰ",
+                "Bein Sports Max 4 4K°",
+                "Bein Sports Max 4 FHD°",
+                "Bein Sports Max 4 SD°"
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 5",
+              "icon": "",
+              "streams": [
+                "beIN SPORTS MAX 5"
+              ]
+            },
+            {
+              "name": "Bein Sports Max 5 4K°",
+              "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png",
+              "streams": [
+                "Bein Sports Max 5 4K°",
+                "Bein Sports Max 5 FHD°",
+                "Bein Sports Max 5 HD°",
+                "Bein Sports Max 5 SD°",
+                "beIN SPORTS MAX 5 ULTRA ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 6",
+              "icon": "",
+              "streams": [
+                "beIN SPORTS MAX 6"
+              ]
+            },
+            {
+              "name": "Bein Sports Max 6 4K°",
+              "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png",
+              "streams": [
+                "Bein Sports Max 6 4K°",
+                "Bein Sports Max 6 FHD°",
+                "beIN Sports MAX 6 ᴴᴰ",
+                "Bein Sports Max 6 SD°",
+                "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ"
+              ]
+            }
           ]
         },
         {
           "provider_id": 1,
           "category": "|AR| ✪ LEBANON",
           "channels": [
-            "mtv lebanon",
-            "al jadeed",
-            "lbc international",
-            "al mashhad"
+            {
+              "name": "|LBN| AL Jadeed",
+              "icon": "http://138.199.27.237:8080/0tv_logo/785.png",
+              "streams": [
+                "|LBN| AL Jadeed",
+                "|LBN| AL JADEED LEBANON ᵁᴴᴰ",
+                "|LBN| Al-Jadeed TV ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|LBN| Al Mayadeen",
+              "icon": "",
+              "streams": [
+                "|LBN| Al Mayadeen"
+              ]
+            },
+            {
+              "name": "|LBN| Almashhad  ᵁᴴᴰ",
+              "icon": "https://lo1.in/FCB/mashhad.png",
+              "streams": [
+                "|LBN| Almashhad  ᵁᴴᴰ",
+                "|LBN| Almashhad ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|LBN| LBC International ᴴᴰ",
+              "icon": "",
+              "streams": [
+                "|LBN| LBC International ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|LBN| MTV Lebanon ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/163.png",
+              "streams": [
+                "|LBN| MTV Lebanon ᴴᴰ",
+                "|LBN| MTV Lebanon ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "al jadeed",
+              "icon": "",
+              "streams": [
+                "al jadeed"
+              ]
+            },
+            {
+              "name": "al mashhad",
+              "icon": "",
+              "streams": [
+                "al mashhad"
+              ]
+            },
+            {
+              "name": "lbc international",
+              "icon": "",
+              "streams": [
+                "lbc international"
+              ]
+            },
+            {
+              "name": "mtv lebanon",
+              "icon": "",
+              "streams": [
+                "mtv lebanon"
+              ]
+            }
           ]
         },
         {
           "category": "|AR| ✪ ARABIC NEWS",
           "channels": [
-            "aljazeera",
-            "al arabiya",
-            "sky news arabiya",
-            "al araby"
+            {
+              "name": "|NEWS| AL ARABIA",
+              "icon": "http://138.199.27.237:8080/ARABE/ALARABIYA.png",
+              "streams": [
+                "|NEWS| AL ARABIA ᵁᴴᴰ",
+                "|NEWS| Al Arabiya"
+              ]
+            },
+            {
+              "name": "|NEWS| AL MAYADEEN TV",
+              "icon": "",
+              "streams": [
+                "|NEWS| AL MAYADEEN TV"
+              ]
+            },
+            {
+              "name": "|NEWS| AlJazeera",
+              "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png",
+              "streams": [
+                "|NEWS| AL Jazeera ᴴᴰ",
+                "|NEWS| AlJazeera ˢᴰ",
+                "|NEWS| ALJAZEERA ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|NEWS| SKY ARABIC",
+              "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg",
+              "streams": [
+                "|NEWS| SKY ARABIC ᵁᴴᴰ",
+                "|NEWS| Sky News Arabiya ᴴᴰ"
+              ]
+            },
+            {
+              "name": "al arabiya",
+              "icon": "",
+              "streams": [
+                "al arabiya"
+              ]
+            },
+            {
+              "name": "al araby",
+              "icon": "",
+              "streams": [
+                "al araby"
+              ]
+            },
+            {
+              "name": "aljazeera",
+              "icon": "",
+              "streams": [
+                "aljazeera"
+              ]
+            },
+            {
+              "name": "sky news arabiya",
+              "icon": "",
+              "streams": [
+                "sky news arabiya"
+              ]
+            }
           ]
         }
       ],
@@ -38,82 +235,338 @@
     },
     {
       "title": "Kids Channels",
-      "streams": [
+      "categories": [
         {
           "category": "|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7",
           "channels": [
-            "|KIDS| bein Boomerang.",
-            "|KIDS| beIN Cart Net Bein AR",
-            "|KIDS| MBC 3",
-            "|KIDS| Movies Kids",
-            "|KIDS| OSN Nicktoons",
-            "|KIDS| Rotana Kids",
-            "|KIDS| SASUKI",
-            "|KIDS| SPACETOON",
-            "|KIDS| TOM AND JERY"
-          ],
-          "exclude": [],
-          "group": false
+            {
+              "name": "|KIDS| bein Boomerang.",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "streams": [
+                "|KIDS| bein Boomerang."
+              ]
+            },
+            {
+              "name": "|KIDS| beIN Cart Net Bein AR",
+              "icon": "http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png",
+              "streams": [
+                "|KIDS| beIN Cart Net Bein AR"
+              ]
+            },
+            {
+              "name": "|KIDS| MBC 3",
+              "icon": "http://138.199.27.237:8080/MY-HD/ MY MBC3.png",
+              "streams": [
+                "|KIDS| MBC 3"
+              ]
+            },
+            {
+              "name": "|KIDS| Movies Kids",
+              "icon": "",
+              "streams": [
+                "|KIDS| Movies Kids"
+              ]
+            },
+            {
+              "name": "|KIDS| OSN Nicktoons",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
+              "streams": [
+                "|KIDS| OSN Nicktoons"
+              ]
+            },
+            {
+              "name": "|KIDS| Rotana Kids",
+              "icon": "",
+              "streams": [
+                "|KIDS| Rotana Kids"
+              ]
+            },
+            {
+              "name": "|KIDS| SASUKI",
+              "icon": "http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png",
+              "streams": [
+                "|KIDS| SASUKI"
+              ]
+            },
+            {
+              "name": "|KIDS| SPACETOON",
+              "icon": "http://138.199.27.237:8080/KIDS/SPACETOON.png",
+              "streams": [
+                "|KIDS| SPACETOON"
+              ]
+            },
+            {
+              "name": "|KIDS| TOM AND JERY",
+              "icon": "http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg",
+              "streams": [
+                "|KIDS| TOM AND JERY"
+              ]
+            },
+            {
+              "name": "|SA| Disney Junior (AR)",
+              "icon": "https://e7.pngegg.com/pngimages/310/617/png-clipart-disney-logo-art-disney-channel-television-channel-disney-xd-disney-junior-monster-inc-miscellaneous-television-thumbnail.png",
+              "streams": [
+                "|SA| Disney Junior (AR)"
+              ]
+            }
+          ]
         },
         {
           "category": "|AR| ✪ MBC | ROTANA",
           "channels": [
-            "|AR|  MBC TOONS HD"
+            {
+              "name": "|AR|  MBC TOONS HD",
+              "icon": "",
+              "streams": [
+                "|AR|  MBC TOONS HD"
+              ]
+            }
           ],
-          "provider_id": 1,
-          "group": false
+          "provider_id": 1
         },
         {
           "category": "|FR| ✪ TOUTE LES CHAINES ᵁᴴᴰ",
           "channels": [
-            "|FR| Cartoon Network ᵁᴴᴰ",
-            "|FR| Toonami ᵁᴴᴰ"
+            {
+              "name": "|FR| Cartoon Network ᵁᴴᴰ",
+              "icon": "",
+              "streams": [
+                "|FR| Cartoon Network ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Toonami ᵁᴴᴰ",
+              "icon": "",
+              "streams": [
+                "|FR| Toonami ᵁᴴᴰ"
+              ]
+            }
           ],
-          "provider_id": 1,
-          "group": false
+          "provider_id": 1
         },
         {
           "category": "|FR| ✪ JEUNESSE",
           "channels": [
-            "|FR| Teletoon +1 ᴴᴰ",
-            "|FR| Teletoon+ ᴴᴰ"
+            {
+              "name": "|FR| Boing ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png",
+              "streams": [
+                "|FR| Boing ᴴᴰ",
+                "|FR| BOING ˢᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Boomerang ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "streams": [
+                "|FR| Boomerang ᴴᴰ",
+                "|FR| BOOMERANG ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Cartoon Network ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png",
+              "streams": [
+                "|FR| Cartoon Network ᴴᴰ",
+                "|FR| CARTOON NETWORK ˢᴰ",
+                "|FR| CARTOON NETWORK ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
+              "icon": "",
+              "streams": [
+                "|FR| DISNEY CHANNEL ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Disney Junior ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
+              "streams": [
+                "|FR| Disney Junior ᴴᴰ",
+                "|FR| DISNEY JUNIOR ˢᴰ",
+                "|FR| DISNEY JUNIOR ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| MANGAS ᵁᴴᴰ",
+              "icon": "",
+              "streams": [
+                "|FR| MANGAS ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Nickelodeon +1 ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png",
+              "streams": [
+                "|FR| Nickelodeon +1 ᴴᴰ",
+                "|FR| NICKELODEON+1 ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Nickelodeon Jr ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
+              "streams": [
+                "|FR| Nick Jr ᴴᴰ",
+                "|FR| Nickelodeon Jr ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| NICKELODEON Toons",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
+              "streams": [
+                "|FR| NICKELODEON 4 Teen ᴴᴰ",
+                "|FR| NICKELODEON 4TEEN ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Piwi+ ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5072.png",
+              "streams": [
+                "|FR| PIWI  ˢᴰ",
+                "|FR| PIWI ᴴᴰ",
+                "|FR| Piwi+ ᴴᴰ",
+                "|FR| PIWI+ ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Teletoon +1 ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
+              "streams": [
+                "|FR|  TELETOON +1 ᵁᴴᴰ",
+                "|FR| Teletoon +1 ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| TELETOON ᵁᴴᴰ",
+              "icon": "http://138.199.27.237:8080/AMERICA/CANADA/TELETOON.png",
+              "streams": [
+                "|FR| TELETOON ˢᴰ",
+                "|FR| TELETOON ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| Teletoon+ ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
+              "streams": [
+                "|FR| TELETOON + ᵁᴴᴰ",
+                "|FR| Teletoon+ ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| TiJi ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png",
+              "streams": [
+                "|FR| TiJi ᴴᴰ",
+                "|FR| TIJI ˢᴰ",
+                "|FR| TIJI ᵁᴴᴰ"
+              ]
+            },
+            {
+              "name": "|FR| TOONAMI ᴴᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5075.png",
+              "streams": [
+                "|FR| TOONAMI ᴴᴰ",
+                "|FR| TOONAMI ˢᴰ"
+              ]
+            }
           ],
-          "provider_id": 1,
-          "group": false
+          "provider_id": 1
         },
         {
           "category": "|US| ✪ KIDS NETWORK",
           "channels": [
-            "|US| Boomerang ᴴᴰ",
-            "|US| Cartoon Network",
-            "|US| Disney",
-            "|US| Disney Jr",
-            "|US| Disney XD",
-            "|US| NICK JR"
+            {
+              "name": "|US| Boomerang ᴴᴰ",
+              "icon": "",
+              "streams": [
+                "|US| Boomerang ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|US| Cartoon Network",
+              "icon": "",
+              "streams": [
+                "|US| Cartoon Network"
+              ]
+            },
+            {
+              "name": "|US| Cartoonito ES",
+              "icon": "",
+              "streams": [
+                "|US| Cartoonito ES"
+              ]
+            },
+            {
+              "name": "|US| Disney",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
+              "streams": [
+                "|US| Disney",
+                "|US| Disney Channel ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|US| Disney Jr",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
+              "streams": [
+                "|US| Disney Jr",
+                "|US| Disney Jr. ᴴᴰ"
+              ]
+            },
+            {
+              "name": "|US| Disney XD",
+              "icon": "",
+              "streams": [
+                "|US| Disney XD"
+              ]
+            },
+            {
+              "name": "|US| NICK JR",
+              "icon": "",
+              "streams": [
+                "|US| NICK JR"
+              ]
+            },
+            {
+              "name": "|US| NICKELODEON",
+              "icon": "",
+              "streams": [
+                "|US| NICKELODEON"
+              ]
+            },
+            {
+              "name": "|US| NickToons",
+              "icon": "",
+              "streams": [
+                "|US| NickToons"
+              ]
+            },
+            {
+              "name": "|US| TeenNick",
+              "icon": "",
+              "streams": [
+                "|US| TeenNick"
+              ]
+            }
           ],
-          "provider_id": 1,
-          "group": false
+          "provider_id": 1
         }
       ]
     },
     {
       "title": "Movies",
-      "streams": [
+      "categories": [
         {
-          "category": "|AR| ✪ DISNEY+ MOVIES",
-          "group": false
+          "category": "|AR| ✪ DISNEY+ MOVIES"
         },
         {
-          "category": "|AR| ✪ HBO MOVIES",
-          "group": false
+          "category": "|AR| ✪ HBO MOVIES"
         },
         {
-          "category": "|AR| ✪ PRIME MOVIES",
-          "group": false
+          "category": "|AR| ✪ PRIME MOVIES"
         },
         {
-          "category": "|AR| ✪ PLUTO MOVIES",
-          "group": false
+          "category": "|AR| ✪ PLUTO MOVIES"
         }
       ]
     }
