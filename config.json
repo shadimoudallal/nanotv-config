@@ -5,16 +5,33 @@
       "streams": [
         {
           "category": "|AR| ✪ FIFA WORLD CUP 2026",
-          "channels": ["beIN SPORTS MAX 1", "beIN SPORTS MAX 2", "beIN SPORTS MAX 3", "beIN SPORTS MAX 4", "beIN SPORTS MAX 5", "beIN SPORTS MAX 6"]
+          "channels": [
+            "beIN SPORTS MAX 1",
+            "beIN SPORTS MAX 2",
+            "beIN SPORTS MAX 3",
+            "beIN SPORTS MAX 4",
+            "beIN SPORTS MAX 5",
+            "beIN SPORTS MAX 6"
+          ]
         },
         {
           "provider_id": 1,
           "category": "|AR| ✪ LEBANON",
-          "channels": ["mtv lebanon", "al jadeed", "lbc international", "al mashhad"]
+          "channels": [
+            "mtv lebanon",
+            "al jadeed",
+            "lbc international",
+            "al mashhad"
+          ]
         },
         {
           "category": "|AR| ✪ ARABIC NEWS",
-          "channels": ["aljazeera", "al arabiya", "sky news arabiya", "al araby"]
+          "channels": [
+            "aljazeera",
+            "al arabiya",
+            "sky news arabiya",
+            "al araby"
+          ]
         }
       ],
       "isdefault": true
@@ -24,38 +41,57 @@
       "streams": [
         {
           "category": "|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7",
-          "channels": ["|KIDS| bein Boomerang.", "|KIDS| beIN Cart Net Bein AR", "|KIDS| MBC 3", "|KIDS| Movies Kids", "|KIDS| OSN Nicktoons", "|KIDS| Rotana Kids", "|KIDS| SASUKI", "|KIDS| SPACETOON", "|KIDS| TOM AND JERY"],
-          "exclude":[],
-          "group": false
-        }
-      ]
-    },
-    {
-      "title": "Kids Channels 2",
-      "streams": [
-        {
-          "provider_id": 2,
-          "category": "|AR| ☺ KIDS  اطفال",
-          "group": false
-        },
-        {
-          "provider_id": 2,
-          "category": "|AR| ☺ CARTOONS كرتون",
+          "channels": [
+            "|KIDS| bein Boomerang.",
+            "|KIDS| beIN Cart Net Bein AR",
+            "|KIDS| MBC 3",
+            "|KIDS| Movies Kids",
+            "|KIDS| OSN Nicktoons",
+            "|KIDS| Rotana Kids",
+            "|KIDS| SASUKI",
+            "|KIDS| SPACETOON",
+            "|KIDS| TOM AND JERY"
+          ],
+          "exclude": [],
           "group": false
         },
         {
-          "provider_id": 2,
-          "category": "|AR| ☺ Disney  ديزني",
+          "category": "|AR| ✪ MBC | ROTANA",
+          "channels": [
+            "|AR|  MBC TOONS HD"
+          ],
+          "provider_id": 1,
           "group": false
         },
         {
-          "provider_id": 2,
-          "category": "EN - 24x7 Animation - Exclusive",
+          "category": "|FR| ✪ TOUTE LES CHAINES ᵁᴴᴰ",
+          "channels": [
+            "|FR| Cartoon Network ᵁᴴᴰ",
+            "|FR| Toonami ᵁᴴᴰ"
+          ],
+          "provider_id": 1,
           "group": false
         },
         {
-          "provider_id": 2,
-          "category": "EN - 24x7 Kids - Exclusive",
+          "category": "|FR| ✪ JEUNESSE",
+          "channels": [
+            "|FR| Teletoon +1 ᴴᴰ",
+            "|FR| Teletoon+ ᴴᴰ"
+          ],
+          "provider_id": 1,
+          "group": false
+        },
+        {
+          "category": "|US| ✪ KIDS NETWORK",
+          "channels": [
+            "|US| Boomerang ᴴᴰ",
+            "|US| Cartoon Network",
+            "|US| Disney",
+            "|US| Disney Jr",
+            "|US| Disney XD",
+            "|US| NICK JR"
+          ],
+          "provider_id": 1,
           "group": false
         }
       ]
