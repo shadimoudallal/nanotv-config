@@ -90,7 +90,8 @@
                 "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ"
               ]
             }
-          ]
+          ],
+          "group": false
         },
         {
           "provider_id": 1,
@@ -106,13 +107,6 @@
               ]
             },
             {
-              "name": "|LBN| Al Mayadeen",
-              "icon": "",
-              "streams": [
-                "|LBN| Al Mayadeen"
-              ]
-            },
-            {
               "name": "|LBN| Almashhad  ᵁᴴᴰ",
               "icon": "https://lo1.in/FCB/mashhad.png",
               "streams": [
@@ -122,7 +116,7 @@
             },
             {
               "name": "|LBN| LBC International ᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/170.png",
               "streams": [
                 "|LBN| LBC International ᴴᴰ"
               ]
@@ -228,7 +222,8 @@
                 "sky news arabiya"
               ]
             }
-          ]
+          ],
+          "group": false
         }
       ],
       "isdefault": true
@@ -241,21 +236,21 @@
           "channels": [
             {
               "name": "|KIDS| bein Boomerang.",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "icon": "",
               "streams": [
                 "|KIDS| bein Boomerang."
               ]
             },
             {
               "name": "|KIDS| beIN Cart Net Bein AR",
-              "icon": "http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png",
+              "icon": "",
               "streams": [
                 "|KIDS| beIN Cart Net Bein AR"
               ]
             },
             {
               "name": "|KIDS| MBC 3",
-              "icon": "http://138.199.27.237:8080/MY-HD/ MY MBC3.png",
+              "icon": "",
               "streams": [
                 "|KIDS| MBC 3"
               ]
@@ -269,7 +264,7 @@
             },
             {
               "name": "|KIDS| OSN Nicktoons",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
+              "icon": "",
               "streams": [
                 "|KIDS| OSN Nicktoons"
               ]
@@ -282,34 +277,29 @@
               ]
             },
             {
-              "name": "|KIDS| SASUKI",
-              "icon": "http://138.199.27.237:8080/AFRICA/AFRICAKIDS/KIDS.png",
-              "streams": [
-                "|KIDS| SASUKI"
-              ]
-            },
-            {
               "name": "|KIDS| SPACETOON",
-              "icon": "http://138.199.27.237:8080/KIDS/SPACETOON.png",
+              "icon": "",
               "streams": [
                 "|KIDS| SPACETOON"
               ]
             },
             {
               "name": "|KIDS| TOM AND JERY",
-              "icon": "http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg",
+              "icon": "",
               "streams": [
                 "|KIDS| TOM AND JERY"
               ]
             },
             {
               "name": "|SA| Disney Junior (AR)",
-              "icon": "https://e7.pngegg.com/pngimages/310/617/png-clipart-disney-logo-art-disney-channel-television-channel-disney-xd-disney-junior-monster-inc-miscellaneous-television-thumbnail.png",
+              "icon": "",
               "streams": [
                 "|SA| Disney Junior (AR)"
               ]
             }
-          ]
+          ],
+          "exclude": [],
+          "group": false
         },
         {
           "category": "|AR| ✪ MBC | ROTANA",
@@ -322,27 +312,8 @@
               ]
             }
           ],
-          "provider_id": 1
-        },
-        {
-          "category": "|FR| ✪ TOUTE LES CHAINES ᵁᴴᴰ",
-          "channels": [
-            {
-              "name": "|FR| Cartoon Network ᵁᴴᴰ",
-              "icon": "",
-              "streams": [
-                "|FR| Cartoon Network ᵁᴴᴰ"
-              ]
-            },
-            {
-              "name": "|FR| Toonami ᵁᴴᴰ",
-              "icon": "",
-              "streams": [
-                "|FR| Toonami ᵁᴴᴰ"
-              ]
-            }
-          ],
-          "provider_id": 1
+          "provider_id": 1,
+          "group": false
         },
         {
           "category": "|FR| ✪ JEUNESSE",
@@ -438,11 +409,10 @@
               ]
             },
             {
-              "name": "|FR| TELETOON ᵁᴴᴰ",
-              "icon": "http://138.199.27.237:8080/AMERICA/CANADA/TELETOON.png",
+              "name": "|FR| TELETOON ˢᴰ",
+              "icon": "",
               "streams": [
-                "|FR| TELETOON ˢᴰ",
-                "|FR| TELETOON ᵁᴴᴰ"
+                "|FR| TELETOON ˢᴰ"
               ]
             },
             {
@@ -471,7 +441,8 @@
               ]
             }
           ],
-          "provider_id": 1
+          "provider_id": 1,
+          "group": false
         },
         {
           "category": "|US| ✪ KIDS NETWORK",
@@ -481,20 +452,6 @@
               "icon": "",
               "streams": [
                 "|US| Boomerang ᴴᴰ"
-              ]
-            },
-            {
-              "name": "|US| Cartoon Network",
-              "icon": "",
-              "streams": [
-                "|US| Cartoon Network"
-              ]
-            },
-            {
-              "name": "|US| Cartoonito ES",
-              "icon": "",
-              "streams": [
-                "|US| Cartoonito ES"
               ]
             },
             {
@@ -549,7 +506,8 @@
               ]
             }
           ],
-          "provider_id": 1
+          "provider_id": 1,
+          "group": false
         }
       ]
     },
@@ -557,16 +515,20 @@
       "title": "Movies",
       "categories": [
         {
-          "category": "|AR| ✪ DISNEY+ MOVIES"
+          "category": "|AR| ✪ DISNEY+ MOVIES",
+          "group": false
         },
         {
-          "category": "|AR| ✪ HBO MOVIES"
+          "category": "|AR| ✪ HBO MOVIES",
+          "group": false
         },
         {
-          "category": "|AR| ✪ PRIME MOVIES"
+          "category": "|AR| ✪ PRIME MOVIES",
+          "group": false
         },
         {
-          "category": "|AR| ✪ PLUTO MOVIES"
+          "category": "|AR| ✪ PLUTO MOVIES",
+          "group": false
         }
       ]
     }
