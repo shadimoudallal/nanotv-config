@@ -55,13 +55,6 @@
               ]
             },
             {
-              "name": "beIN SPORTS MAX 5",
-              "icon": "",
-              "streams": [
-                "beIN SPORTS MAX 5"
-              ]
-            },
-            {
               "name": "Bein Sports Max 5 4K°",
               "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png",
               "streams": [
@@ -70,13 +63,6 @@
                 "Bein Sports Max 5 HD°",
                 "Bein Sports Max 5 SD°",
                 "beIN SPORTS MAX 5 ULTRA ᵁᴴᴰ"
-              ]
-            },
-            {
-              "name": "beIN SPORTS MAX 6",
-              "icon": "",
-              "streams": [
-                "beIN SPORTS MAX 6"
               ]
             },
             {
@@ -90,8 +76,7 @@
                 "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ"
               ]
             }
-          ],
-          "group": false
+          ]
         },
         {
           "provider_id": 1,
@@ -127,34 +112,6 @@
               "streams": [
                 "|LBN| MTV Lebanon ᴴᴰ",
                 "|LBN| MTV Lebanon ᵁᴴᴰ"
-              ]
-            },
-            {
-              "name": "al jadeed",
-              "icon": "",
-              "streams": [
-                "al jadeed"
-              ]
-            },
-            {
-              "name": "al mashhad",
-              "icon": "",
-              "streams": [
-                "al mashhad"
-              ]
-            },
-            {
-              "name": "lbc international",
-              "icon": "",
-              "streams": [
-                "lbc international"
-              ]
-            },
-            {
-              "name": "mtv lebanon",
-              "icon": "",
-              "streams": [
-                "mtv lebanon"
               ]
             }
           ]
@@ -192,37 +149,8 @@
                 "|NEWS| SKY ARABIC ᵁᴴᴰ",
                 "|NEWS| Sky News Arabiya ᴴᴰ"
               ]
-            },
-            {
-              "name": "al arabiya",
-              "icon": "",
-              "streams": [
-                "al arabiya"
-              ]
-            },
-            {
-              "name": "al araby",
-              "icon": "",
-              "streams": [
-                "al araby"
-              ]
-            },
-            {
-              "name": "aljazeera",
-              "icon": "",
-              "streams": [
-                "aljazeera"
-              ]
-            },
-            {
-              "name": "sky news arabiya",
-              "icon": "",
-              "streams": [
-                "sky news arabiya"
-              ]
             }
-          ],
-          "group": false
+          ]
         }
       ],
       "isdefault": true
