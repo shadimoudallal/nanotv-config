@@ -2,6 +2,7 @@
   "channelLists": [
     {
       "title": "Channels",
+      "isdefault": true,
       "categories": [
         {
           "category": "|AR| ✪ FIFA WORLD CUP 2026",
@@ -79,7 +80,6 @@
           ]
         },
         {
-          "provider_id": 1,
           "category": "|AR| ✪ LEBANON",
           "channels": [
             {
@@ -152,8 +152,7 @@
             }
           ]
         }
-      ],
-      "isdefault": true
+      ]
     },
     {
       "title": "Kids Channels",
@@ -224,9 +223,7 @@
                 "|SA| Disney Junior (AR)"
               ]
             }
-          ],
-          "exclude": [],
-          "group": false
+          ]
         },
         {
           "category": "|AR| ✪ MBC | ROTANA",
@@ -238,9 +235,7 @@
                 "|AR|  MBC TOONS HD"
               ]
             }
-          ],
-          "provider_id": 1,
-          "group": false
+          ]
         },
         {
           "category": "|FR| ✪ JEUNESSE",
@@ -272,7 +267,7 @@
             },
             {
               "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
               "streams": [
                 "|FR| DISNEY CHANNEL ᵁᴴᴰ"
               ]
@@ -282,13 +277,12 @@
               "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
               "streams": [
                 "|FR| Disney Junior ᴴᴰ",
-                "|FR| DISNEY JUNIOR ˢᴰ",
                 "|FR| DISNEY JUNIOR ᵁᴴᴰ"
               ]
             },
             {
               "name": "|FR| MANGAS ᵁᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/MANGA FHD.png",
               "streams": [
                 "|FR| MANGAS ᵁᴴᴰ"
               ]
@@ -346,21 +340,26 @@
             },
             {
               "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
               "streams": [
                 "|FR|  TELETOON +1 ᵁᴴᴰ"
               ]
+            },
+            {
+              "name": "|FR| DISNEY JUNIOR ˢᴰ",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
+              "streams": [
+                "|FR| DISNEY JUNIOR ˢᴰ"
+              ]
             }
-          ],
-          "provider_id": 1,
-          "group": false
+          ]
         },
         {
           "category": "|US| ✪ KIDS NETWORK",
           "channels": [
             {
               "name": "|US| Boomerang ᴴᴰ",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "icon": "",
               "streams": [
                 "|US| Boomerang ᴴᴰ"
               ]
@@ -383,28 +382,26 @@
             },
             {
               "name": "|US| NICK JR",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
+              "icon": "",
               "streams": [
                 "|US| NICK JR"
               ]
             },
             {
               "name": "|US| NICKELODEON",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",
+              "icon": "",
               "streams": [
                 "|US| NICKELODEON"
               ]
             },
             {
               "name": "|US| TeenNick",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
+              "icon": "",
               "streams": [
                 "|US| TeenNick"
               ]
             }
-          ],
-          "provider_id": 1,
-          "group": false
+          ]
         }
       ]
     },
@@ -412,20 +409,16 @@
       "title": "Movies",
       "categories": [
         {
-          "category": "|AR| ✪ DISNEY+ MOVIES",
-          "group": false
+          "category": "|AR| ✪ DISNEY+ MOVIES"
         },
         {
-          "category": "|AR| ✪ HBO MOVIES",
-          "group": false
+          "category": "|AR| ✪ HBO MOVIES"
         },
         {
-          "category": "|AR| ✪ PRIME MOVIES",
-          "group": false
+          "category": "|AR| ✪ PRIME MOVIES"
         },
         {
-          "category": "|AR| ✪ PLUTO MOVIES",
-          "group": false
+          "category": "|AR| ✪ PLUTO MOVIES"
         }
       ]
     }
