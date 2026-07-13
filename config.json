@@ -11,70 +11,172 @@
               "name": "beIN SPORTS MAX 1",
               "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png",
               "streams": [
-                "beIN SPORTS MAX 1",
-                "Bein Sports Max 1 4K°",
-                "Bein Sports Max 1 FHD°",
-                "Bein Sports Max 1 HD°",
-                "Bein Sports Max 1 SD°",
-                "beIN SPORTS MAX 1 ULTRA ᵁᴴᴰ"
+                {
+                  "id": "1063488",
+                  "name": "beIN Sports MAX 1"
+                },
+                {
+                  "id": "1944357",
+                  "name": "Bein Sports Max 1 4K°"
+                },
+                {
+                  "id": "1944363",
+                  "name": "Bein Sports Max 1 FHD°"
+                },
+                {
+                  "id": "1944369",
+                  "name": "Bein Sports Max 1 HD°"
+                },
+                {
+                  "id": "1944375",
+                  "name": "Bein Sports Max 1 SD°"
+                },
+                {
+                  "id": "1065897",
+                  "name": "beIN SPORTS MAX 1 ULTRA ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "beIN SPORTS MAX 2",
               "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-800x500.png",
               "streams": [
-                "beIN SPORTS MAX 2",
-                "Bein Sports Max 2 4K°",
-                "Bein Sports Max 2 FHD°",
-                "Bein Sports Max 2 HD°",
-                "Bein Sports Max 2 SD°",
-                "beIN SPORTS MAX 2 ULTRA ᵁᴴᴰ"
+                {
+                  "id": "1063489",
+                  "name": "beIN Sports MAX 2"
+                },
+                {
+                  "id": "1944358",
+                  "name": "Bein Sports Max 2 4K°"
+                },
+                {
+                  "id": "1944364",
+                  "name": "Bein Sports Max 2 FHD°"
+                },
+                {
+                  "id": "1944370",
+                  "name": "Bein Sports Max 2 HD°"
+                },
+                {
+                  "id": "1944376",
+                  "name": "Bein Sports Max 2 SD°"
+                },
+                {
+                  "id": "1065898",
+                  "name": "beIN SPORTS MAX 2 ULTRA ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "beIN SPORTS MAX 3",
               "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-1.png",
               "streams": [
-                "beIN SPORTS MAX 3",
-                "Bein Sports Max 3 4K°",
-                "Bein Sports Max 3 FHD°",
-                "Bein Sports Max 3 HD°",
-                "Bein Sports Max 3 SD°",
-                "beIN SPORTS MAX 3 ULTRA ᵁᴴᴰ"
+                {
+                  "id": "1948328",
+                  "name": "beIN Sports MAX 3"
+                },
+                {
+                  "id": "1944359",
+                  "name": "Bein Sports Max 3 4K°"
+                },
+                {
+                  "id": "1944365",
+                  "name": "Bein Sports Max 3 FHD°"
+                },
+                {
+                  "id": "1944371",
+                  "name": "Bein Sports Max 3 HD°"
+                },
+                {
+                  "id": "1944377",
+                  "name": "Bein Sports Max 3 SD°"
+                },
+                {
+                  "id": "1065899",
+                  "name": "beIN SPORTS MAX 3 ULTRA ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "beIN SPORTS MAX 4",
               "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-2.png",
               "streams": [
-                "beIN SPORTS MAX 4",
-                "beIN Sports MAX 4  HD",
-                "beIN SPORTS MAX 4  ULTRA ᵁᴴᴰ",
-                "Bein Sports Max 4 4K°",
-                "Bein Sports Max 4 FHD°",
-                "Bein Sports Max 4 SD°"
+                {
+                  "id": "1948329",
+                  "name": "beIN Sports MAX 4"
+                },
+                {
+                  "id": "146062",
+                  "name": "beIN Sports MAX 4  HD"
+                },
+                {
+                  "id": "1065900",
+                  "name": "beIN SPORTS MAX 4  ULTRA ᵁᴴᴰ"
+                },
+                {
+                  "id": "1944360",
+                  "name": "Bein Sports Max 4 4K°"
+                },
+                {
+                  "id": "1944366",
+                  "name": "Bein Sports Max 4 FHD°"
+                },
+                {
+                  "id": "1944378",
+                  "name": "Bein Sports Max 4 SD°"
+                }
               ]
             },
             {
               "name": "Bein Sports Max 5 4K°",
               "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png",
               "streams": [
-                "Bein Sports Max 5 4K°",
-                "Bein Sports Max 5 FHD°",
-                "Bein Sports Max 5 HD°",
-                "Bein Sports Max 5 SD°",
-                "beIN SPORTS MAX 5 ULTRA ᵁᴴᴰ"
+                {
+                  "id": "1944361",
+                  "name": "Bein Sports Max 5 4K°"
+                },
+                {
+                  "id": "1944367",
+                  "name": "Bein Sports Max 5 FHD°"
+                },
+                {
+                  "id": "1944373",
+                  "name": "Bein Sports Max 5 HD°"
+                },
+                {
+                  "id": "1944379",
+                  "name": "Bein Sports Max 5 SD°"
+                },
+                {
+                  "id": "1946726",
+                  "name": "beIN SPORTS MAX 5 ULTRA ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "Bein Sports Max 6 4K°",
               "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png",
               "streams": [
-                "Bein Sports Max 6 4K°",
-                "Bein Sports Max 6 FHD°",
-                "beIN Sports MAX 6 ᴴᴰ",
-                "Bein Sports Max 6 SD°",
-                "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ"
+                {
+                  "id": "1944362",
+                  "name": "Bein Sports Max 6 4K°"
+                },
+                {
+                  "id": "1944368",
+                  "name": "Bein Sports Max 6 FHD°"
+                },
+                {
+                  "id": "1946734",
+                  "name": "beIN Sports MAX 6 ᴴᴰ"
+                },
+                {
+                  "id": "1944380",
+                  "name": "Bein Sports Max 6 SD°"
+                },
+                {
+                  "id": "1946731",
+                  "name": "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ"
+                }
               ]
             }
           ]
@@ -86,32 +188,56 @@
               "name": "|LBN| AL Jadeed",
               "icon": "http://138.199.27.237:8080/0tv_logo/785.png",
               "streams": [
-                "|LBN| AL Jadeed",
-                "|LBN| AL JADEED LEBANON ᵁᴴᴰ",
-                "|LBN| Al-Jadeed TV ᴴᴰ"
+                {
+                  "id": "265992",
+                  "name": "|LBN| AL Jadeed"
+                },
+                {
+                  "id": "50246",
+                  "name": "|LBN| AL JADEED LEBANON ᵁᴴᴰ"
+                },
+                {
+                  "id": "8249",
+                  "name": "|LBN| Al-Jadeed TV ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|LBN| Almashhad  ᵁᴴᴰ",
               "icon": "https://lo1.in/FCB/mashhad.png",
               "streams": [
-                "|LBN| Almashhad  ᵁᴴᴰ",
-                "|LBN| Almashhad ᴴᴰ"
+                {
+                  "id": "1396008",
+                  "name": "|LBN| Almashhad  ᵁᴴᴰ"
+                },
+                {
+                  "id": "1396007",
+                  "name": "|LBN| Almashhad ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|LBN| LBC International ᴴᴰ",
               "icon": "",
               "streams": [
-                "|LBN| LBC International ᴴᴰ"
+                {
+                  "id": "199",
+                  "name": "|LBN| LBC International ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|LBN| MTV Lebanon ᴴᴰ",
               "icon": "http://138.199.27.237:8080/0tv_logo/163.png",
               "streams": [
-                "|LBN| MTV Lebanon ᴴᴰ",
-                "|LBN| MTV Lebanon ᵁᴴᴰ"
+                {
+                  "id": "197",
+                  "name": "|LBN| MTV Lebanon ᴴᴰ"
+                },
+                {
+                  "id": "150230",
+                  "name": "|LBN| MTV Lebanon ᵁᴴᴰ"
+                }
               ]
             }
           ]
@@ -123,31 +249,52 @@
               "name": "|NEWS| AL ARABIA",
               "icon": "http://138.199.27.237:8080/ARABE/ALARABIYA.png",
               "streams": [
-                "|NEWS| AL ARABIA ᵁᴴᴰ",
-                "|NEWS| Al Arabiya"
+                {
+                  "id": "50237",
+                  "name": "|NEWS| AL ARABIA ᵁᴴᴰ"
+                },
+                {
+                  "id": "160",
+                  "name": "|NEWS| Al Arabiya"
+                }
               ]
             },
             {
               "name": "|NEWS| AL MAYADEEN TV",
               "icon": "",
               "streams": [
-                "|NEWS| AL MAYADEEN TV"
+                {
+                  "id": "1433",
+                  "name": "|NEWS| AL MAYADEEN TV"
+                }
               ]
             },
             {
               "name": "|NEWS| AlJazeera",
               "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png",
               "streams": [
-                "|NEWS| AL Jazeera ᴴᴰ",
-                "|NEWS| ALJAZEERA ᵁᴴᴰ"
+                {
+                  "id": "1443",
+                  "name": "|NEWS| AL Jazeera ᴴᴰ"
+                },
+                {
+                  "id": "50232",
+                  "name": "|NEWS| ALJAZEERA ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|NEWS| SKY ARABIC",
               "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg",
               "streams": [
-                "|NEWS| SKY ARABIC ᵁᴴᴰ",
-                "|NEWS| Sky News Arabiya ᴴᴰ"
+                {
+                  "id": "91130",
+                  "name": "|NEWS| SKY ARABIC ᵁᴴᴰ"
+                },
+                {
+                  "id": "161",
+                  "name": "|NEWS| Sky News Arabiya ᴴᴰ"
+                }
               ]
             }
           ]
@@ -164,63 +311,90 @@
               "name": "|KIDS| bein Boomerang.",
               "icon": "",
               "streams": [
-                "|KIDS| bein Boomerang."
+                {
+                  "id": "2625",
+                  "name": "|KIDS| beIN Boomerang."
+                }
               ]
             },
             {
               "name": "|KIDS| beIN Cart Net Bein AR",
               "icon": "",
               "streams": [
-                "|KIDS| beIN Cart Net Bein AR"
+                {
+                  "id": "4757",
+                  "name": "|KIDS| beIN Cart Net Bein AR"
+                }
               ]
             },
             {
               "name": "|KIDS| MBC 3",
               "icon": "",
               "streams": [
-                "|KIDS| MBC 3"
+                {
+                  "id": "1654",
+                  "name": "|KIDS| MBC 3"
+                }
               ]
             },
             {
               "name": "|KIDS| Movies Kids",
               "icon": "",
               "streams": [
-                "|KIDS| Movies Kids"
+                {
+                  "id": "41",
+                  "name": "|KIDS| Movies Kids ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|KIDS| OSN Nicktoons",
               "icon": "",
               "streams": [
-                "|KIDS| OSN Nicktoons"
+                {
+                  "id": "20420",
+                  "name": "|KIDS| OSN NICKTOONS"
+                }
               ]
             },
             {
               "name": "|KIDS| Rotana Kids",
               "icon": "",
               "streams": [
-                "|KIDS| Rotana Kids"
+                {
+                  "id": "52658",
+                  "name": "|KIDS| Rotana Kids ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|KIDS| SPACETOON",
               "icon": "",
               "streams": [
-                "|KIDS| SPACETOON"
+                {
+                  "id": "1283",
+                  "name": "|KIDS| SPACETOON"
+                }
               ]
             },
             {
               "name": "|KIDS| TOM AND JERY",
               "icon": "",
               "streams": [
-                "|KIDS| TOM AND JERY"
+                {
+                  "id": "83880",
+                  "name": "|KIDS| TOM AND JERY"
+                }
               ]
             },
             {
               "name": "|SA| Disney Junior (AR)",
               "icon": "",
               "streams": [
-                "|SA| Disney Junior (AR)"
+                {
+                  "id": "1244192",
+                  "name": "|SA| Disney Junior (AR)"
+                }
               ]
             }
           ]
@@ -232,7 +406,10 @@
               "name": "|AR|  MBC TOONS HD",
               "icon": "",
               "streams": [
-                "|AR|  MBC TOONS HD"
+                {
+                  "id": "1785029",
+                  "name": "|AR|  MBC TOONS HD"
+                }
               ]
             }
           ]
@@ -244,112 +421,196 @@
               "name": "|FR| Boing ᴴᴰ",
               "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png",
               "streams": [
-                "|FR| Boing ᴴᴰ",
-                "|FR| BOING ˢᴰ"
+                {
+                  "id": "309",
+                  "name": "|FR| Boing ᴴᴰ"
+                },
+                {
+                  "id": "12893",
+                  "name": "|FR| BOING ˢᴰ"
+                }
               ]
             },
             {
               "name": "|FR| Boomerang ᴴᴰ",
               "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
-                "|FR| Boomerang ᴴᴰ",
-                "|FR| BOOMERANG ᵁᴴᴰ"
+                {
+                  "id": "307",
+                  "name": "|FR| Boomerang ᴴᴰ"
+                },
+                {
+                  "id": "35528",
+                  "name": "|FR| BOOMERANG ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| Cartoon Network ᴴᴰ",
               "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png",
               "streams": [
-                "|FR| Cartoon Network ᴴᴰ",
-                "|FR| CARTOON NETWORK ˢᴰ",
-                "|FR| CARTOON NETWORK ᵁᴴᴰ"
+                {
+                  "id": "306",
+                  "name": "|FR| Cartoon Network ᴴᴰ"
+                },
+                {
+                  "id": "12883",
+                  "name": "|FR| CARTOON NETWORK ˢᴰ"
+                },
+                {
+                  "id": "148484",
+                  "name": "|FR| CARTOON NETWORK ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
               "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
               "streams": [
-                "|FR| DISNEY CHANNEL ᵁᴴᴰ"
+                {
+                  "id": "35529",
+                  "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| Disney Junior ᴴᴰ",
               "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
               "streams": [
-                "|FR| Disney Junior ᴴᴰ",
-                "|FR| DISNEY JUNIOR ᵁᴴᴰ"
+                {
+                  "id": "305",
+                  "name": "|FR| Disney Junior ᴴᴰ"
+                },
+                {
+                  "id": "32827",
+                  "name": "|FR| DISNEY JUNIOR ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| MANGAS ᵁᴴᴰ",
               "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/MANGA FHD.png",
               "streams": [
-                "|FR| MANGAS ᵁᴴᴰ"
+                {
+                  "id": "274709",
+                  "name": "|FR| MANGAS ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| Nickelodeon +1 ᴴᴰ",
               "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png",
               "streams": [
-                "|FR| Nickelodeon +1 ᴴᴰ",
-                "|FR| NICKELODEON+1 ᵁᴴᴰ"
+                {
+                  "id": "8193",
+                  "name": "|FR| Nickelodeon +1 ᴴᴰ"
+                },
+                {
+                  "id": "274855",
+                  "name": "|FR| NICKELODEON+1 ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| Nickelodeon Jr ᴴᴰ",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
               "streams": [
-                "|FR| Nick Jr ᴴᴰ",
-                "|FR| Nickelodeon Jr ᴴᴰ"
+                {
+                  "id": "308",
+                  "name": "|FR| Nick Jr ᴴᴰ"
+                },
+                {
+                  "id": "310",
+                  "name": "|FR| Nickelodeon Jr ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| NICKELODEON Toons",
               "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
               "streams": [
-                "|FR| NICKELODEON 4 Teen ᴴᴰ",
-                "|FR| NICKELODEON 4TEEN ᵁᴴᴰ"
+                {
+                  "id": "4184",
+                  "name": "|FR| NICKELODEON 4 Teen ᴴᴰ"
+                },
+                {
+                  "id": "35533",
+                  "name": "|FR| NICKELODEON 4TEEN ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| Piwi+ ᴴᴰ",
               "icon": "http://138.199.27.237:8080/0tv_logo/5072.png",
               "streams": [
-                "|FR| PIWI  ˢᴰ",
-                "|FR| PIWI ᴴᴰ",
-                "|FR| Piwi+ ᴴᴰ",
-                "|FR| PIWI+ ᵁᴴᴰ"
+                {
+                  "id": "12798",
+                  "name": "|FR| PIWI  ˢᴰ"
+                },
+                {
+                  "id": "1228",
+                  "name": "|FR| PIWI ᴴᴰ"
+                },
+                {
+                  "id": "298",
+                  "name": "|FR| Piwi+ ᴴᴰ"
+                },
+                {
+                  "id": "148483",
+                  "name": "|FR| PIWI+ ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| Teletoon +",
               "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
               "streams": [
-                "|FR| Teletoon +1 ᴴᴰ",
-                "|FR| Teletoon+ ᴴᴰ"
+                {
+                  "id": "301",
+                  "name": "|FR| Teletoon +1 ᴴᴰ"
+                },
+                {
+                  "id": "300",
+                  "name": "|FR| Teletoon+ ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| TiJi ᴴᴰ",
               "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png",
               "streams": [
-                "|FR| TiJi ᴴᴰ",
-                "|FR| TIJI ˢᴰ",
-                "|FR| TIJI ᵁᴴᴰ"
+                {
+                  "id": "299",
+                  "name": "|FR| TiJi ᴴᴰ"
+                },
+                {
+                  "id": "12772",
+                  "name": "|FR| TIJI ˢᴰ"
+                },
+                {
+                  "id": "148485",
+                  "name": "|FR| TIJI ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
               "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
               "streams": [
-                "|FR|  TELETOON +1 ᵁᴴᴰ"
+                {
+                  "id": "32832",
+                  "name": "|FR|  TELETOON +1 ᵁᴴᴰ"
+                }
               ]
             },
             {
               "name": "|FR| DISNEY JUNIOR ˢᴰ",
               "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
               "streams": [
-                "|FR| DISNEY JUNIOR ˢᴰ"
+                {
+                  "id": "12861",
+                  "name": "|FR| DISNEY JUNIOR ˢᴰ"
+                }
               ]
             }
           ]
@@ -361,44 +622,68 @@
               "name": "|US| Boomerang ᴴᴰ",
               "icon": "",
               "streams": [
-                "|US| Boomerang ᴴᴰ"
+                {
+                  "id": "13115",
+                  "name": "|US| Boomerang ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|US| Disney",
               "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
               "streams": [
-                "|US| Disney",
-                "|US| Disney Channel ᴴᴰ"
+                {
+                  "id": "11209",
+                  "name": "|US| Disney"
+                },
+                {
+                  "id": "13117",
+                  "name": "|US| Disney Channel ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|US| Disney Jr",
               "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
               "streams": [
-                "|US| Disney Jr",
-                "|US| Disney Jr. ᴴᴰ"
+                {
+                  "id": "11207",
+                  "name": "|US| Disney Jr"
+                },
+                {
+                  "id": "13118",
+                  "name": "|US| Disney Jr. ᴴᴰ"
+                }
               ]
             },
             {
               "name": "|US| NICK JR",
               "icon": "",
               "streams": [
-                "|US| NICK JR"
+                {
+                  "id": "14624",
+                  "name": "|US| NICK JR"
+                }
               ]
             },
             {
               "name": "|US| NICKELODEON",
               "icon": "",
               "streams": [
-                "|US| NICKELODEON"
+                {
+                  "id": "13122",
+                  "name": "|US| NICKELODEON"
+                }
               ]
             },
             {
               "name": "|US| TeenNick",
               "icon": "",
               "streams": [
-                "|US| TeenNick"
+                {
+                  "id": "54233",
+                  "name": "|US| TeenNick"
+                }
               ]
             }
           ]
