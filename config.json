@@ -203,7 +203,17 @@
               ]
             },
             {
-              "name": "|LBN| Almashhad  ᵁᴴᴰ",
+              "name": "|LBN| ALAAN TV",
+              "icon": "",
+              "streams": [
+                {
+                  "id": "1469",
+                  "name": "|LBN| ALAAN TV"
+                }
+              ]
+            },
+            {
+              "name": "|LBN| Almashhad",
               "icon": "https://lo1.in/FCB/mashhad.png",
               "streams": [
                 {
@@ -227,7 +237,7 @@
               ]
             },
             {
-              "name": "|LBN| MTV Lebanon ᴴᴰ",
+              "name": "|LBN| MTV Lebanon",
               "icon": "http://138.199.27.237:8080/0tv_logo/163.png",
               "streams": [
                 {
@@ -237,6 +247,20 @@
                 {
                   "id": "150230",
                   "name": "|LBN| MTV Lebanon ᵁᴴᴰ"
+                }
+              ]
+            },
+            {
+              "name": "|LBN| ONE",
+              "icon": "http://138.199.27.237:8080/ASIA/LEBANON/ONE-LB.png",
+              "streams": [
+                {
+                  "id": "123042",
+                  "name": "|LBN| ONE"
+                },
+                {
+                  "id": "265991",
+                  "name": "|LBN| One TV Lebanon ᴴᴰ"
                 }
               ]
             }
@@ -261,7 +285,7 @@
             },
             {
               "name": "|NEWS| AL MAYADEEN TV",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/132.png",
               "streams": [
                 {
                   "id": "1433",
@@ -296,6 +320,20 @@
                   "name": "|NEWS| Sky News Arabiya ᴴᴰ"
                 }
               ]
+            },
+            {
+              "name": "|NEWS| AL ARABY TV",
+              "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png",
+              "streams": [
+                {
+                  "id": "28193",
+                  "name": "|NEWS| AL ARABY TV ᴴᴰ"
+                },
+                {
+                  "id": "468714",
+                  "name": "|NEWS| AL ARABY TV ᵁᴴᴰ"
+                }
+              ]
             }
           ]
         }
@@ -308,7 +346,7 @@
           "category": "|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7",
           "channels": [
             {
-              "name": "|KIDS| bein Boomerang.",
+              "name": "|KIDS| beIN Boomerang.",
               "icon": "",
               "streams": [
                 {
@@ -328,6 +366,16 @@
               ]
             },
             {
+              "name": "|KIDS| GULLI ARABIC",
+              "icon": "",
+              "streams": [
+                {
+                  "id": "2559",
+                  "name": "|KIDS| GULLI ARABIC"
+                }
+              ]
+            },
+            {
               "name": "|KIDS| MBC 3",
               "icon": "",
               "streams": [
@@ -338,7 +386,7 @@
               ]
             },
             {
-              "name": "|KIDS| Movies Kids",
+              "name": "|KIDS| Movies Kids ᴴᴰ",
               "icon": "",
               "streams": [
                 {
@@ -348,7 +396,17 @@
               ]
             },
             {
-              "name": "|KIDS| OSN Nicktoons",
+              "name": "|KIDS| Nickelodeon Jr ᴴᴰ",
+              "icon": "",
+              "streams": [
+                {
+                  "id": "14570",
+                  "name": "|KIDS| Nickelodeon Jr ᴴᴰ"
+                }
+              ]
+            },
+            {
+              "name": "|KIDS| OSN NICKTOONS",
               "icon": "",
               "streams": [
                 {
@@ -358,7 +416,7 @@
               ]
             },
             {
-              "name": "|KIDS| Rotana Kids",
+              "name": "|KIDS| Rotana Kids ᴴᴰ",
               "icon": "",
               "streams": [
                 {
@@ -418,8 +476,18 @@
           "category": "|FR| ✪ JEUNESSE",
           "channels": [
             {
-              "name": "|FR| Boing ᴴᴰ",
-              "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png",
+              "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
+              "icon": "",
+              "streams": [
+                {
+                  "id": "32832",
+                  "name": "|FR|  TELETOON +1 ᵁᴴᴰ"
+                }
+              ]
+            },
+            {
+              "name": "|FR| Boing",
+              "icon": "",
               "streams": [
                 {
                   "id": "309",
@@ -432,8 +500,8 @@
               ]
             },
             {
-              "name": "|FR| Boomerang ᴴᴰ",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "name": "|FR| Boomerang",
+              "icon": "",
               "streams": [
                 {
                   "id": "307",
@@ -446,8 +514,8 @@
               ]
             },
             {
-              "name": "|FR| Cartoon Network ᴴᴰ",
-              "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png",
+              "name": "|FR| Cartoon Network",
+              "icon": "",
               "streams": [
                 {
                   "id": "306",
@@ -464,9 +532,31 @@
               ]
             },
             {
-              "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
+              "name": "|FR| Cartoonito ᵁᴴᴰ",
+              "icon": "",
+              "streams": [
+                {
+                  "id": "88442",
+                  "name": "|FR| Cartoonito ᵁᴴᴰ"
+                }
+              ]
+            },
+            {
+              "name": "|FR| DISNEY CHANNEL",
               "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
               "streams": [
+                {
+                  "id": "302",
+                  "name": "|FR| Disney Channel ᴴᴰ"
+                },
+                {
+                  "id": "12863",
+                  "name": "|FR| DISNEY CHANNEL ˢᴰ"
+                },
+                {
+                  "id": "250646",
+                  "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ"
+                },
                 {
                   "id": "35529",
                   "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ"
@@ -474,7 +564,7 @@
               ]
             },
             {
-              "name": "|FR| Disney Junior ᴴᴰ",
+              "name": "|FR| Disney Junior",
               "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
               "streams": [
                 {
@@ -489,7 +579,7 @@
             },
             {
               "name": "|FR| MANGAS ᵁᴴᴰ",
-              "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/MANGA FHD.png",
+              "icon": "",
               "streams": [
                 {
                   "id": "274709",
@@ -498,8 +588,8 @@
               ]
             },
             {
-              "name": "|FR| Nickelodeon +1 ᴴᴰ",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png",
+              "name": "|FR| Nickelodeon +1",
+              "icon": "",
               "streams": [
                 {
                   "id": "8193",
@@ -513,7 +603,7 @@
             },
             {
               "name": "|FR| Nickelodeon Jr ᴴᴰ",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
+              "icon": "",
               "streams": [
                 {
                   "id": "308",
@@ -527,7 +617,7 @@
             },
             {
               "name": "|FR| NICKELODEON Toons",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
+              "icon": "",
               "streams": [
                 {
                   "id": "4184",
@@ -540,8 +630,8 @@
               ]
             },
             {
-              "name": "|FR| Piwi+ ᴴᴰ",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5072.png",
+              "name": "|FR| Piwi+",
+              "icon": "",
               "streams": [
                 {
                   "id": "12798",
@@ -562,13 +652,19 @@
               ]
             },
             {
-              "name": "|FR| Teletoon +",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
+              "name": "|FR| Teletoon +1 ᴴᴰ",
+              "icon": "",
               "streams": [
                 {
                   "id": "301",
                   "name": "|FR| Teletoon +1 ᴴᴰ"
-                },
+                }
+              ]
+            },
+            {
+              "name": "|FR| Teletoon+ ᴴᴰ",
+              "icon": "",
+              "streams": [
                 {
                   "id": "300",
                   "name": "|FR| Teletoon+ ᴴᴰ"
@@ -576,7 +672,7 @@
               ]
             },
             {
-              "name": "|FR| TiJi ᴴᴰ",
+              "name": "|FR| TiJi",
               "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png",
               "streams": [
                 {
@@ -586,7 +682,13 @@
                 {
                   "id": "12772",
                   "name": "|FR| TIJI ˢᴰ"
-                },
+                }
+              ]
+            },
+            {
+              "name": "|FR| TIJI ᵁᴴᴰ",
+              "icon": "",
+              "streams": [
                 {
                   "id": "148485",
                   "name": "|FR| TIJI ᵁᴴᴰ"
@@ -594,22 +696,12 @@
               ]
             },
             {
-              "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
+              "name": "FR| WARNER TV NEXT HD",
+              "icon": "",
               "streams": [
                 {
-                  "id": "32832",
-                  "name": "|FR|  TELETOON +1 ᵁᴴᴰ"
-                }
-              ]
-            },
-            {
-              "name": "|FR| DISNEY JUNIOR ˢᴰ",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
-              "streams": [
-                {
-                  "id": "12861",
-                  "name": "|FR| DISNEY JUNIOR ˢᴰ"
+                  "id": "1041917",
+                  "name": "FR| WARNER TV NEXT HD"
                 }
               ]
             }
@@ -625,6 +717,30 @@
                 {
                   "id": "13115",
                   "name": "|US| Boomerang ᴴᴰ"
+                }
+              ]
+            },
+            {
+              "name": "|US| Cartoon Network",
+              "icon": "",
+              "streams": [
+                {
+                  "id": "11153",
+                  "name": "|US| Cartoon Network"
+                }
+              ]
+            },
+            {
+              "name": "|US| Cartoonito",
+              "icon": "",
+              "streams": [
+                {
+                  "id": "276001",
+                  "name": "|US| Cartoonito ES"
+                },
+                {
+                  "id": "11208",
+                  "name": "|US| Disney XD"
                 }
               ]
             },
