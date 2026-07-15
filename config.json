@@ -13,27 +13,33 @@
               "streams": [
                 {
                   "id": "1063488",
-                  "name": "beIN Sports MAX 1"
+                  "name": "beIN Sports MAX 1",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png"
                 },
                 {
                   "id": "1944357",
-                  "name": "Bein Sports Max 1 4K°"
+                  "name": "Bein Sports Max 1 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
                 },
                 {
                   "id": "1944363",
-                  "name": "Bein Sports Max 1 FHD°"
+                  "name": "Bein Sports Max 1 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
                 },
                 {
                   "id": "1944369",
-                  "name": "Bein Sports Max 1 HD°"
+                  "name": "Bein Sports Max 1 HD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
                 },
                 {
                   "id": "1944375",
-                  "name": "Bein Sports Max 1 SD°"
+                  "name": "Bein Sports Max 1 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
                 },
                 {
                   "id": "1065897",
-                  "name": "beIN SPORTS MAX 1 ULTRA ᵁᴴᴰ"
+                  "name": "beIN SPORTS MAX 1 ULTRA ᵁᴴᴰ",
+                  "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png"
                 }
               ]
             },
@@ -43,27 +49,33 @@
               "streams": [
                 {
                   "id": "1063489",
-                  "name": "beIN Sports MAX 2"
+                  "name": "beIN Sports MAX 2",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png"
                 },
                 {
                   "id": "1944358",
-                  "name": "Bein Sports Max 2 4K°"
+                  "name": "Bein Sports Max 2 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
                 },
                 {
                   "id": "1944364",
-                  "name": "Bein Sports Max 2 FHD°"
+                  "name": "Bein Sports Max 2 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
                 },
                 {
                   "id": "1944370",
-                  "name": "Bein Sports Max 2 HD°"
+                  "name": "Bein Sports Max 2 HD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
                 },
                 {
                   "id": "1944376",
-                  "name": "Bein Sports Max 2 SD°"
+                  "name": "Bein Sports Max 2 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
                 },
                 {
                   "id": "1065898",
-                  "name": "beIN SPORTS MAX 2 ULTRA ᵁᴴᴰ"
+                  "name": "beIN SPORTS MAX 2 ULTRA ᵁᴴᴰ",
+                  "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-800x500.png"
                 }
               ]
             },
@@ -73,27 +85,33 @@
               "streams": [
                 {
                   "id": "1948328",
-                  "name": "beIN Sports MAX 3"
+                  "name": "beIN Sports MAX 3",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png"
                 },
                 {
                   "id": "1944359",
-                  "name": "Bein Sports Max 3 4K°"
+                  "name": "Bein Sports Max 3 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
                 },
                 {
                   "id": "1944365",
-                  "name": "Bein Sports Max 3 FHD°"
+                  "name": "Bein Sports Max 3 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
                 },
                 {
                   "id": "1944371",
-                  "name": "Bein Sports Max 3 HD°"
+                  "name": "Bein Sports Max 3 HD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
                 },
                 {
                   "id": "1944377",
-                  "name": "Bein Sports Max 3 SD°"
+                  "name": "Bein Sports Max 3 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
                 },
                 {
                   "id": "1065899",
-                  "name": "beIN SPORTS MAX 3 ULTRA ᵁᴴᴰ"
+                  "name": "beIN SPORTS MAX 3 ULTRA ᵁᴴᴰ",
+                  "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-1.png"
                 }
               ]
             },
@@ -103,27 +121,33 @@
               "streams": [
                 {
                   "id": "1948329",
-                  "name": "beIN Sports MAX 4"
+                  "name": "beIN Sports MAX 4",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png"
                 },
                 {
                   "id": "146062",
-                  "name": "beIN Sports MAX 4  HD"
+                  "name": "beIN Sports MAX 4  HD",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png"
                 },
                 {
                   "id": "1065900",
-                  "name": "beIN SPORTS MAX 4  ULTRA ᵁᴴᴰ"
+                  "name": "beIN SPORTS MAX 4  ULTRA ᵁᴴᴰ",
+                  "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-2.png"
                 },
                 {
                   "id": "1944360",
-                  "name": "Bein Sports Max 4 4K°"
+                  "name": "Bein Sports Max 4 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png"
                 },
                 {
                   "id": "1944366",
-                  "name": "Bein Sports Max 4 FHD°"
+                  "name": "Bein Sports Max 4 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png"
                 },
                 {
                   "id": "1944378",
-                  "name": "Bein Sports Max 4 SD°"
+                  "name": "Bein Sports Max 4 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png"
                 }
               ]
             },
@@ -133,23 +157,28 @@
               "streams": [
                 {
                   "id": "1944361",
-                  "name": "Bein Sports Max 5 4K°"
+                  "name": "Bein Sports Max 5 4K°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
                 },
                 {
                   "id": "1944367",
-                  "name": "Bein Sports Max 5 FHD°"
+                  "name": "Bein Sports Max 5 FHD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
                 },
                 {
                   "id": "1944373",
-                  "name": "Bein Sports Max 5 HD°"
+                  "name": "Bein Sports Max 5 HD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
                 },
                 {
                   "id": "1944379",
-                  "name": "Bein Sports Max 5 SD°"
+                  "name": "Bein Sports Max 5 SD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
                 },
                 {
                   "id": "1946726",
-                  "name": "beIN SPORTS MAX 5 ULTRA ᵁᴴᴰ"
+                  "name": "beIN SPORTS MAX 5 ULTRA ᵁᴴᴰ",
+                  "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png"
                 }
               ]
             },
@@ -159,23 +188,28 @@
               "streams": [
                 {
                   "id": "1944362",
-                  "name": "Bein Sports Max 6 4K°"
+                  "name": "Bein Sports Max 6 4K°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png"
                 },
                 {
                   "id": "1944368",
-                  "name": "Bein Sports Max 6 FHD°"
+                  "name": "Bein Sports Max 6 FHD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png"
                 },
                 {
                   "id": "1946734",
-                  "name": "beIN Sports MAX 6 ᴴᴰ"
+                  "name": "beIN Sports MAX 6 ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png"
                 },
                 {
                   "id": "1944380",
-                  "name": "Bein Sports Max 6 SD°"
+                  "name": "Bein Sports Max 6 SD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png"
                 },
                 {
                   "id": "1946731",
-                  "name": "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ"
+                  "name": "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ",
+                  "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png"
                 }
               ]
             }
@@ -190,15 +224,18 @@
               "streams": [
                 {
                   "id": "265992",
-                  "name": "|LBN| AL Jadeed"
+                  "name": "|LBN| AL Jadeed",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/785.png"
                 },
                 {
                   "id": "50246",
-                  "name": "|LBN| AL JADEED LEBANON ᵁᴴᴰ"
+                  "name": "|LBN| AL JADEED LEBANON ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/785.png"
                 },
                 {
                   "id": "8249",
-                  "name": "|LBN| Al-Jadeed TV ᴴᴰ"
+                  "name": "|LBN| Al-Jadeed TV ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/785.png"
                 }
               ]
             },
@@ -208,21 +245,24 @@
               "streams": [
                 {
                   "id": "1396008",
-                  "name": "|LBN| Almashhad  ᵁᴴᴰ"
+                  "name": "|LBN| Almashhad  ᵁᴴᴰ",
+                  "icon": ""
                 },
                 {
                   "id": "1396007",
-                  "name": "|LBN| Almashhad ᴴᴰ"
+                  "name": "|LBN| Almashhad ᴴᴰ",
+                  "icon": "https://lo1.in/FCB/mashhad.png"
                 }
               ]
             },
             {
               "name": "|LBN| LBC International ᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/170.png",
               "streams": [
                 {
                   "id": "199",
-                  "name": "|LBN| LBC International ᴴᴰ"
+                  "name": "|LBN| LBC International ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/170.png"
                 }
               ]
             },
@@ -232,11 +272,13 @@
               "streams": [
                 {
                   "id": "197",
-                  "name": "|LBN| MTV Lebanon ᴴᴰ"
+                  "name": "|LBN| MTV Lebanon ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/163.png"
                 },
                 {
                   "id": "150230",
-                  "name": "|LBN| MTV Lebanon ᵁᴴᴰ"
+                  "name": "|LBN| MTV Lebanon ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/163.png"
                 }
               ]
             },
@@ -246,11 +288,13 @@
               "streams": [
                 {
                   "id": "123042",
-                  "name": "|LBN| ONE"
+                  "name": "|LBN| ONE",
+                  "icon": "http://138.199.27.237:8080/ASIA/LEBANON/ONE-LB.png"
                 },
                 {
                   "id": "265991",
-                  "name": "|LBN| One TV Lebanon ᴴᴰ"
+                  "name": "|LBN| One TV Lebanon ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/ASIA/LEBANON/ONE-LB.png"
                 }
               ]
             }
@@ -265,21 +309,24 @@
               "streams": [
                 {
                   "id": "50237",
-                  "name": "|NEWS| AL ARABIA ᵁᴴᴰ"
+                  "name": "|NEWS| AL ARABIA ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/ARABE/ALARABIYA.png"
                 },
                 {
                   "id": "160",
-                  "name": "|NEWS| Al Arabiya"
+                  "name": "|NEWS| Al Arabiya",
+                  "icon": "http://138.199.27.237:8080/ARABE/ALARABIYA.png"
                 }
               ]
             },
             {
               "name": "|NEWS| AL MAYADEEN TV",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/132.png",
               "streams": [
                 {
                   "id": "1433",
-                  "name": "|NEWS| AL MAYADEEN TV"
+                  "name": "|NEWS| AL MAYADEEN TV",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/132.png"
                 }
               ]
             },
@@ -289,11 +336,13 @@
               "streams": [
                 {
                   "id": "1443",
-                  "name": "|NEWS| AL Jazeera ᴴᴰ"
+                  "name": "|NEWS| AL Jazeera ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png"
                 },
                 {
                   "id": "50232",
-                  "name": "|NEWS| ALJAZEERA ᵁᴴᴰ"
+                  "name": "|NEWS| ALJAZEERA ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png"
                 }
               ]
             },
@@ -303,11 +352,13 @@
               "streams": [
                 {
                   "id": "91130",
-                  "name": "|NEWS| SKY ARABIC ᵁᴴᴰ"
+                  "name": "|NEWS| SKY ARABIC ᵁᴴᴰ",
+                  "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg"
                 },
                 {
                   "id": "161",
-                  "name": "|NEWS| Sky News Arabiya ᴴᴰ"
+                  "name": "|NEWS| Sky News Arabiya ᴴᴰ",
+                  "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg"
                 }
               ]
             },
@@ -317,11 +368,13 @@
               "streams": [
                 {
                   "id": "28193",
-                  "name": "|NEWS| AL ARABY TV ᴴᴰ"
+                  "name": "|NEWS| AL ARABY TV ᴴᴰ",
+                  "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png"
                 },
                 {
                   "id": "468714",
-                  "name": "|NEWS| AL ARABY TV ᵁᴴᴰ"
+                  "name": "|NEWS| AL ARABY TV ᵁᴴᴰ",
+                  "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png"
                 }
               ]
             }
@@ -337,111 +390,122 @@
           "channels": [
             {
               "name": "|KIDS| beIN Boomerang.",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
                 {
                   "id": "2625",
-                  "name": "|KIDS| beIN Boomerang."
+                  "name": "|KIDS| beIN Boomerang.",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
                 }
               ]
             },
             {
               "name": "|KIDS| beIN Cart Net Bein AR",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png",
               "streams": [
                 {
                   "id": "4757",
-                  "name": "|KIDS| beIN Cart Net Bein AR"
+                  "name": "|KIDS| beIN Cart Net Bein AR",
+                  "icon": "http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png"
                 }
               ]
             },
             {
               "name": "|KIDS| GULLI ARABIC",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/222.png",
               "streams": [
                 {
                   "id": "2559",
-                  "name": "|KIDS| GULLI ARABIC"
+                  "name": "|KIDS| GULLI ARABIC",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/222.png"
                 }
               ]
             },
             {
               "name": "|KIDS| MBC 3",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/MY-HD/ MY MBC3.png",
               "streams": [
                 {
                   "id": "1654",
-                  "name": "|KIDS| MBC 3"
+                  "name": "|KIDS| MBC 3",
+                  "icon": "http://138.199.27.237:8080/MY-HD/ MY MBC3.png"
                 }
               ]
             },
             {
               "name": "|KIDS| Movies Kids ᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/OSN/OSN-Kids.png",
               "streams": [
                 {
                   "id": "41",
-                  "name": "|KIDS| Movies Kids ᴴᴰ"
+                  "name": "|KIDS| Movies Kids ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/OSN/OSN-Kids.png"
                 }
               ]
             },
             {
               "name": "|KIDS| Nickelodeon Jr ᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
               "streams": [
                 {
                   "id": "14570",
-                  "name": "|KIDS| Nickelodeon Jr ᴴᴰ"
+                  "name": "|KIDS| Nickelodeon Jr ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 }
               ]
             },
             {
               "name": "|KIDS| OSN NICKTOONS",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
               "streams": [
                 {
                   "id": "20420",
-                  "name": "|KIDS| OSN NICKTOONS"
+                  "name": "|KIDS| OSN NICKTOONS",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png"
                 }
               ]
             },
             {
               "name": "|KIDS| Rotana Kids ᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/ROTANA/Rotana_Kids.png",
               "streams": [
                 {
                   "id": "52658",
-                  "name": "|KIDS| Rotana Kids ᴴᴰ"
+                  "name": "|KIDS| Rotana Kids ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/ROTANA/Rotana_Kids.png"
                 }
               ]
             },
             {
               "name": "|KIDS| SPACETOON",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/KIDS/SPACETOON.png",
               "streams": [
                 {
                   "id": "1283",
-                  "name": "|KIDS| SPACETOON"
+                  "name": "|KIDS| SPACETOON",
+                  "icon": "http://138.199.27.237:8080/KIDS/SPACETOON.png"
                 }
               ]
             },
             {
               "name": "|KIDS| TOM AND JERY",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg",
               "streams": [
                 {
                   "id": "83880",
-                  "name": "|KIDS| TOM AND JERY"
+                  "name": "|KIDS| TOM AND JERY",
+                  "icon": "http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg"
                 }
               ]
             },
             {
               "name": "|SA| Disney Junior (AR)",
-              "icon": "",
+              "icon": "https://e7.pngegg.com/pngimages/310/617/png-clipart-disney-logo-art-disney-channel-television-channel-disney-xd-disney-junior-monster-inc-miscellaneous-television-thumbnail.png",
               "streams": [
                 {
                   "id": "1244192",
-                  "name": "|SA| Disney Junior (AR)"
+                  "name": "|SA| Disney Junior (AR)",
+                  "icon": "https://e7.pngegg.com/pngimages/310/617/png-clipart-disney-logo-art-disney-channel-television-channel-disney-xd-disney-junior-monster-inc-miscellaneous-television-thumbnail.png"
                 }
               ]
             }
@@ -452,11 +516,12 @@
           "channels": [
             {
               "name": "|AR|  MBC TOONS HD",
-              "icon": "",
+              "icon": "https://media.majarracdn.cloud/manhom/mgmt/images/33782/1730127777/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-mbc.jpg",
               "streams": [
                 {
                   "id": "1785029",
-                  "name": "|AR|  MBC TOONS HD"
+                  "name": "|AR|  MBC TOONS HD",
+                  "icon": "https://media.majarracdn.cloud/manhom/mgmt/images/33782/1730127777/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-mbc.jpg"
                 }
               ]
             }
@@ -471,53 +536,61 @@
               "streams": [
                 {
                   "id": "32832",
-                  "name": "|FR|  TELETOON +1 ᵁᴴᴰ"
+                  "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5071.png"
                 }
               ]
             },
             {
               "name": "|FR| Boing",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png",
               "streams": [
                 {
                   "id": "309",
-                  "name": "|FR| Boing ᴴᴰ"
+                  "name": "|FR| Boing ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png"
                 },
                 {
                   "id": "12893",
-                  "name": "|FR| BOING ˢᴰ"
+                  "name": "|FR| BOING ˢᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png"
                 }
               ]
             },
             {
               "name": "|FR| Boomerang",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
                 {
                   "id": "307",
-                  "name": "|FR| Boomerang ᴴᴰ"
+                  "name": "|FR| Boomerang ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
                 },
                 {
                   "id": "35528",
-                  "name": "|FR| BOOMERANG ᵁᴴᴰ"
+                  "name": "|FR| BOOMERANG ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
                 }
               ]
             },
             {
               "name": "|FR| Cartoon Network",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png",
               "streams": [
                 {
                   "id": "306",
-                  "name": "|FR| Cartoon Network ᴴᴰ"
+                  "name": "|FR| Cartoon Network ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png"
                 },
                 {
                   "id": "12883",
-                  "name": "|FR| CARTOON NETWORK ˢᴰ"
+                  "name": "|FR| CARTOON NETWORK ˢᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png"
                 },
                 {
                   "id": "148484",
-                  "name": "|FR| CARTOON NETWORK ᵁᴴᴰ"
+                  "name": "|FR| CARTOON NETWORK ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png"
                 }
               ]
             },
@@ -527,7 +600,8 @@
               "streams": [
                 {
                   "id": "88442",
-                  "name": "|FR| Cartoonito ᵁᴴᴰ"
+                  "name": "|FR| Cartoonito ᵁᴴᴰ",
+                  "icon": "https://iconape.com/wp-content/png_logo_vector/gametoon-hd-logo.png"
                 }
               ]
             },
@@ -537,19 +611,23 @@
               "streams": [
                 {
                   "id": "302",
-                  "name": "|FR| Disney Channel ᴴᴰ"
+                  "name": "|FR| Disney Channel ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
                 },
                 {
                   "id": "12863",
-                  "name": "|FR| DISNEY CHANNEL ˢᴰ"
+                  "name": "|FR| DISNEY CHANNEL ˢᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
                 },
                 {
                   "id": "250646",
-                  "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ"
+                  "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
                 },
                 {
                   "id": "35529",
-                  "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ"
+                  "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
                 }
               ]
             },
@@ -559,11 +637,13 @@
               "streams": [
                 {
                   "id": "305",
-                  "name": "|FR| Disney Junior ᴴᴰ"
+                  "name": "|FR| Disney Junior ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
                 },
                 {
                   "id": "32827",
-                  "name": "|FR| DISNEY JUNIOR ᵁᴴᴰ"
+                  "name": "|FR| DISNEY JUNIOR ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
                 }
               ]
             },
@@ -573,71 +653,82 @@
               "streams": [
                 {
                   "id": "274709",
-                  "name": "|FR| MANGAS ᵁᴴᴰ"
+                  "name": "|FR| MANGAS ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/MANGA FHD.png"
                 }
               ]
             },
             {
               "name": "|FR| Nickelodeon +1",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png",
               "streams": [
                 {
                   "id": "8193",
-                  "name": "|FR| Nickelodeon +1 ᴴᴰ"
+                  "name": "|FR| Nickelodeon +1 ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png"
                 },
                 {
                   "id": "274855",
-                  "name": "|FR| NICKELODEON+1 ᵁᴴᴰ"
+                  "name": "|FR| NICKELODEON+1 ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png"
                 }
               ]
             },
             {
               "name": "|FR| Nickelodeon Jr ᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
               "streams": [
                 {
                   "id": "308",
-                  "name": "|FR| Nick Jr ᴴᴰ"
+                  "name": "|FR| Nick Jr ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 },
                 {
                   "id": "310",
-                  "name": "|FR| Nickelodeon Jr ᴴᴰ"
+                  "name": "|FR| Nickelodeon Jr ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 }
               ]
             },
             {
               "name": "|FR| NICKELODEON Toons",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
               "streams": [
                 {
                   "id": "4184",
-                  "name": "|FR| NICKELODEON 4 Teen ᴴᴰ"
+                  "name": "|FR| NICKELODEON 4 Teen ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png"
                 },
                 {
                   "id": "35533",
-                  "name": "|FR| NICKELODEON 4TEEN ᵁᴴᴰ"
+                  "name": "|FR| NICKELODEON 4TEEN ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png"
                 }
               ]
             },
             {
               "name": "|FR| Piwi+",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5072.png",
               "streams": [
                 {
                   "id": "12798",
-                  "name": "|FR| PIWI  ˢᴰ"
+                  "name": "|FR| PIWI  ˢᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
                 },
                 {
                   "id": "1228",
-                  "name": "|FR| PIWI ᴴᴰ"
+                  "name": "|FR| PIWI ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
                 },
                 {
                   "id": "298",
-                  "name": "|FR| Piwi+ ᴴᴰ"
+                  "name": "|FR| Piwi+ ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
                 },
                 {
                   "id": "148483",
-                  "name": "|FR| PIWI+ ᵁᴴᴰ"
+                  "name": "|FR| PIWI+ ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
                 }
               ]
             },
@@ -647,7 +738,8 @@
               "streams": [
                 {
                   "id": "301",
-                  "name": "|FR| Teletoon +1 ᴴᴰ"
+                  "name": "|FR| Teletoon +1 ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5071.png"
                 }
               ]
             },
@@ -657,7 +749,8 @@
               "streams": [
                 {
                   "id": "300",
-                  "name": "|FR| Teletoon+ ᴴᴰ"
+                  "name": "|FR| Teletoon+ ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5071.png"
                 }
               ]
             },
@@ -667,15 +760,18 @@
               "streams": [
                 {
                   "id": "299",
-                  "name": "|FR| TiJi ᴴᴰ"
+                  "name": "|FR| TiJi ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png"
                 },
                 {
                   "id": "12772",
-                  "name": "|FR| TIJI ˢᴰ"
+                  "name": "|FR| TIJI ˢᴰ",
+                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png"
                 },
                 {
                   "id": "148485",
-                  "name": "|FR| TIJI ᵁᴴᴰ"
+                  "name": "|FR| TIJI ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png"
                 }
               ]
             },
@@ -685,7 +781,8 @@
               "streams": [
                 {
                   "id": "1041917",
-                  "name": "FR| WARNER TV NEXT HD"
+                  "name": "FR| WARNER TV NEXT HD",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png"
                 }
               ]
             }
@@ -696,35 +793,39 @@
           "channels": [
             {
               "name": "|US| Boomerang ᴴᴰ",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
                 {
                   "id": "13115",
-                  "name": "|US| Boomerang ᴴᴰ"
+                  "name": "|US| Boomerang ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
                 }
               ]
             },
             {
               "name": "|US| Cartoon Network",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/USA/CARTOONNETWORK.png",
               "streams": [
                 {
                   "id": "11153",
-                  "name": "|US| Cartoon Network"
+                  "name": "|US| Cartoon Network",
+                  "icon": "http://138.199.27.237:8080/USA/CARTOONNETWORK.png"
                 }
               ]
             },
             {
               "name": "|US| Cartoonito",
-              "icon": "",
+              "icon": "http://185.165.243.195/logo_plus/USA/DISNEYXD.png",
               "streams": [
                 {
                   "id": "276001",
-                  "name": "|US| Cartoonito ES"
+                  "name": "|US| Cartoonito ES",
+                  "icon": ""
                 },
                 {
                   "id": "11208",
-                  "name": "|US| Disney XD"
+                  "name": "|US| Disney XD",
+                  "icon": "http://185.165.243.195/logo_plus/USA/DISNEYXD.png"
                 }
               ]
             },
@@ -734,11 +835,13 @@
               "streams": [
                 {
                   "id": "11209",
-                  "name": "|US| Disney"
+                  "name": "|US| Disney",
+                  "icon": "http://logodmtv.ddns.net/logo/5073.png"
                 },
                 {
                   "id": "13117",
-                  "name": "|US| Disney Channel ᴴᴰ"
+                  "name": "|US| Disney Channel ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
                 }
               ]
             },
@@ -748,41 +851,46 @@
               "streams": [
                 {
                   "id": "11207",
-                  "name": "|US| Disney Jr"
+                  "name": "|US| Disney Jr",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
                 },
                 {
                   "id": "13118",
-                  "name": "|US| Disney Jr. ᴴᴰ"
+                  "name": "|US| Disney Jr. ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
                 }
               ]
             },
             {
               "name": "|US| NICK JR",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
               "streams": [
                 {
                   "id": "14624",
-                  "name": "|US| NICK JR"
+                  "name": "|US| NICK JR",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 }
               ]
             },
             {
               "name": "|US| NICKELODEON",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",
               "streams": [
                 {
                   "id": "13122",
-                  "name": "|US| NICKELODEON"
+                  "name": "|US| NICKELODEON",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png"
                 }
               ]
             },
             {
               "name": "|US| TeenNick",
-              "icon": "",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
               "streams": [
                 {
                   "id": "54233",
-                  "name": "|US| TeenNick"
+                  "name": "|US| TeenNick",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png"
                 }
               ]
             }
@@ -794,16 +902,420 @@
       "title": "Movies",
       "categories": [
         {
-          "category": "|AR| ✪ DISNEY+ MOVIES"
+          "category": "|AR| ✪ DISNEY+ MOVIES",
+          "channels": [
+            {
+              "name": "DISNEY+ FANTASY",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1961000",
+                  "name": "DISNEY+ FANTASY",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ ACTION",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904140",
+                  "name": "DISNEY+ ACTION",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ ANIMATION",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904139",
+                  "name": "DISNEY+ ANIMATION",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ BOX OFFICE",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904138",
+                  "name": "DISNEY+ BOX OFFICE",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ COMEDY",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904137",
+                  "name": "DISNEY+ COMEDY",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ DRAMA",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904136",
+                  "name": "DISNEY+ DRAMA",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ HORROR",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904135",
+                  "name": "DISNEY+ HORROR",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ ROMANCE",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904134",
+                  "name": "DISNEY+ ROMANCE",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ SCI-FI",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904133",
+                  "name": "DISNEY+ SCI-FI",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            },
+            {
+              "name": "DISNEY+ THRILLER",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904132",
+                  "name": "DISNEY+ THRILLER",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            }
+          ]
         },
         {
-          "category": "|AR| ✪ HBO MOVIES"
+          "category": "|AR| ✪ HBO MOVIES",
+          "channels": [
+            {
+              "name": "HBO ACTION",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912333",
+                  "name": "HBO ACTION",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO BOX OFFICE",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912331",
+                  "name": "HBO BOX OFFICE",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO COMEDY",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912330",
+                  "name": "HBO COMEDY",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO CRIME",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912332",
+                  "name": "HBO CRIME",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO DRAMA",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912329",
+                  "name": "HBO DRAMA",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO HORROR",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912328",
+                  "name": "HBO HORROR",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO ROMANCE",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912334",
+                  "name": "HBO ROMANCE",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO SCI-FI",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912326",
+                  "name": "HBO SCI-FI",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "HBO THRILLER",
+              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "streams": [
+                {
+                  "id": "1912325",
+                  "name": "HBO THRILLER",
+                  "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg"
+                }
+              ]
+            }
+          ]
         },
         {
-          "category": "|AR| ✪ PRIME MOVIES"
+          "category": "|AR| ✪ PRIME MOVIES",
+          "channels": [
+            {
+              "name": "PRIME ACTION",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941779",
+                  "name": "PRIME ACTION",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME  ANIMATION",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941778",
+                  "name": "PRIME  ANIMATION",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME BOX OFFICE",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941777",
+                  "name": "PRIME BOX OFFICE",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME COMEDY",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941776",
+                  "name": "PRIME COMEDY",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME CRIME",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941773",
+                  "name": "PRIME CRIME",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME DRAMA",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941775",
+                  "name": "PRIME DRAMA",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME HORROR",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941774",
+                  "name": "PRIME HORROR",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME SCI-FI",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941772",
+                  "name": "PRIME SCI-FI",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            },
+            {
+              "name": "PRIME THRILLER",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941771",
+                  "name": "PRIME THRILLER",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            }
+          ]
         },
         {
-          "category": "|AR| ✪ PLUTO MOVIES"
+          "category": "|AR| ✪ PLUTO MOVIES",
+          "channels": [
+            {
+              "name": "PLUTO ACTION",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938505",
+                  "name": "PLUTO ACTION",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PLUTO ANIMATION",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938506",
+                  "name": "PLUTO ANIMATION",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PLUTO COMED",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938508",
+                  "name": "PLUTO COMED",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PLUTO DRAMA",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938509",
+                  "name": "PLUTO DRAMA",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PLUTO HORROR",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938510",
+                  "name": "PLUTO HORROR",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PLUTO ROMANCE",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938514",
+                  "name": "PLUTO ROMANCE",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PLUTO SCI-FI",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938513",
+                  "name": "PLUTO SCI-FI",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PLUTO THRILLER",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938512",
+                  "name": "PLUTO THRILLER",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
