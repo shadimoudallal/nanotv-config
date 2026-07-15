@@ -316,6 +316,27 @@
                   "id": "160",
                   "name": "|NEWS| Al Arabiya",
                   "icon": "http://138.199.27.237:8080/ARABE/ALARABIYA.png"
+                },
+                {
+                  "id": "468730",
+                  "name": "|NEWS| Al Arabiya ᵁᴴᴰ",
+                  "icon": "https://i.imgur.com/7OrfyOx.jpg"
+                }
+              ]
+            },
+            {
+              "name": "|NEWS| AL ARABY TV",
+              "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png",
+              "streams": [
+                {
+                  "id": "28193",
+                  "name": "|NEWS| AL ARABY TV ᴴᴰ",
+                  "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png"
+                },
+                {
+                  "id": "468714",
+                  "name": "|NEWS| AL ARABY TV ᵁᴴᴰ",
+                  "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png"
                 }
               ]
             },
@@ -340,9 +361,41 @@
                   "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png"
                 },
                 {
+                  "id": "465433",
+                  "name": "|NEWS| AL Jazeera ᵁᴴᴰ",
+                  "icon": ""
+                },
+                {
+                  "id": "1444",
+                  "name": "|NEWS| AlJazeera ˢᴰ",
+                  "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png"
+                },
+                {
                   "id": "50232",
                   "name": "|NEWS| ALJAZEERA ᵁᴴᴰ",
                   "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png"
+                }
+              ]
+            },
+            {
+              "name": "|NEWS| BBC Arabic",
+              "icon": "http://138.199.27.237:8080/ARABE/BBCARABIC.png",
+              "streams": [
+                {
+                  "id": "173",
+                  "name": "|NEWS| BBC Arabic",
+                  "icon": "http://138.199.27.237:8080/ARABE/BBCARABIC.png"
+                }
+              ]
+            },
+            {
+              "name": "|NEWS| CNBC ARABIYA",
+              "icon": "http://138.199.27.237:8080/ARABE/CNBCARABIYA.png",
+              "streams": [
+                {
+                  "id": "1396",
+                  "name": "|NEWS| CNBC ARABIYA",
+                  "icon": "http://138.199.27.237:8080/ARABE/CNBCARABIYA.png"
                 }
               ]
             },
@@ -363,18 +416,23 @@
               ]
             },
             {
-              "name": "|NEWS| AL ARABY TV",
-              "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png",
+              "name": "|NEWS| TRT ARABIC",
+              "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png",
               "streams": [
                 {
-                  "id": "28193",
-                  "name": "|NEWS| AL ARABY TV ᴴᴰ",
-                  "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png"
+                  "id": "468722",
+                  "name": "|NEWS| TRT Arabi ᵁᴴᴰ",
+                  "icon": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Factual_News/TRT_Arabi.png"
                 },
                 {
-                  "id": "468714",
-                  "name": "|NEWS| AL ARABY TV ᵁᴴᴰ",
-                  "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png"
+                  "id": "50203",
+                  "name": "|NEWS| TRT ARABI ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png"
+                },
+                {
+                  "id": "162",
+                  "name": "|NEWS| TRT ARABIC",
+                  "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png"
                 }
               ]
             }
