@@ -573,9 +573,14 @@
           "category": "|AR| ✪ MBC | ROTANA",
           "channels": [
             {
-              "name": "|AR|  MBC TOONS HD",
+              "name": "|AR|  MBC TOONS",
               "icon": "https://media.majarracdn.cloud/manhom/mgmt/images/33782/1730127777/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-mbc.jpg",
               "streams": [
+                {
+                  "id": "1785028",
+                  "name": "|AR|  MBC TOONS 4K",
+                  "icon": "https://media.majarracdn.cloud/manhom/mgmt/images/33782/1730127777/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-mbc.jpg"
+                },
                 {
                   "id": "1785029",
                   "name": "|AR|  MBC TOONS HD",
@@ -596,22 +601,6 @@
                   "id": "32832",
                   "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
                   "icon": "http://138.199.27.237:8080/0tv_logo/5071.png"
-                }
-              ]
-            },
-            {
-              "name": "|FR| Boing",
-              "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png",
-              "streams": [
-                {
-                  "id": "309",
-                  "name": "|FR| Boing ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png"
-                },
-                {
-                  "id": "12893",
-                  "name": "|FR| BOING ˢᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/BOINGHD.png"
                 }
               ]
             },
@@ -702,17 +691,6 @@
                   "id": "32827",
                   "name": "|FR| DISNEY JUNIOR ᵁᴴᴰ",
                   "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
-                }
-              ]
-            },
-            {
-              "name": "|FR| MANGAS ᵁᴴᴰ",
-              "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/MANGA FHD.png",
-              "streams": [
-                {
-                  "id": "274709",
-                  "name": "|FR| MANGAS ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/MANGA FHD.png"
                 }
               ]
             },
@@ -834,9 +812,14 @@
               ]
             },
             {
-              "name": "FR| WARNER TV NEXT HD",
+              "name": "FR| WARNER TV NEXT",
               "icon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png",
               "streams": [
+                {
+                  "id": "2580",
+                  "name": "|FR| TOONAMI ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5075.png"
+                },
                 {
                   "id": "1041917",
                   "name": "FR| WARNER TV NEXT HD",
@@ -868,22 +851,6 @@
                   "id": "11153",
                   "name": "|US| Cartoon Network",
                   "icon": "http://138.199.27.237:8080/USA/CARTOONNETWORK.png"
-                }
-              ]
-            },
-            {
-              "name": "|US| Cartoonito",
-              "icon": "http://185.165.243.195/logo_plus/USA/DISNEYXD.png",
-              "streams": [
-                {
-                  "id": "276001",
-                  "name": "|US| Cartoonito ES",
-                  "icon": ""
-                },
-                {
-                  "id": "11208",
-                  "name": "|US| Disney XD",
-                  "icon": "http://185.165.243.195/logo_plus/USA/DISNEYXD.png"
                 }
               ]
             },
@@ -949,6 +916,117 @@
                   "id": "54233",
                   "name": "|US| TeenNick",
                   "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|UK| ✪ KIDS",
+          "channels": [
+            {
+              "name": "|UK|   NICKTOONS",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
+              "streams": [
+                {
+                  "id": "13609",
+                  "name": "|UK|   NICKTOONS",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png"
+                }
+              ]
+            },
+            {
+              "name": "|UK|  NICKELODEON",
+              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",
+              "streams": [
+                {
+                  "id": "13610",
+                  "name": "|UK|  NICKELODEON",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png"
+                },
+                {
+                  "id": "13626",
+                  "name": "|UK|  NICKTOONS",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png"
+                },
+                {
+                  "id": "10540",
+                  "name": "|UK| NICK ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png"
+                }
+              ]
+            },
+            {
+              "name": "|UK| BOOMERANG",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "streams": [
+                {
+                  "id": "13635",
+                  "name": "|UK| BOOMERANG",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                },
+                {
+                  "id": "13634",
+                  "name": "|UK| BOOMERANG  1",
+                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                }
+              ]
+            },
+            {
+              "name": "|UK| CARTOON NETWORK",
+              "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png",
+              "streams": [
+                {
+                  "id": "13624",
+                  "name": "|UK| CARTOON NETWORK",
+                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                },
+                {
+                  "id": "13633",
+                  "name": "|UK| CARTOON NETWORK",
+                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                },
+                {
+                  "id": "22236",
+                  "name": "|UK| CARTOON NETWORK  ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                },
+                {
+                  "id": "13632",
+                  "name": "|UK| CARTOON NETWORK 1",
+                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                }
+              ]
+            },
+            {
+              "name": "|UK| CARTOONITO",
+              "icon": "http://138.199.27.237:8080/UK/CARTOONITO.png",
+              "streams": [
+                {
+                  "id": "13631",
+                  "name": "|UK| CARTOONITO",
+                  "icon": "http://138.199.27.237:8080/UK/CARTOONITO.png"
+                }
+              ]
+            },
+            {
+              "name": "|UK| SKY KIDS",
+              "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png",
+              "streams": [
+                {
+                  "id": "288702",
+                  "name": "|UK| SKY KIDS ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png"
+                },
+                {
+                  "id": "288701",
+                  "name": "|UK| SKY KIDS ˢᴰ",
+                  "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png"
+                },
+                {
+                  "id": "288703",
+                  "name": "|UK| SKY KIDS ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png"
                 }
               ]
             }
