@@ -152,7 +152,7 @@
               ]
             },
             {
-              "name": "Bein Sports Max 5 4K°",
+              "name": "beIN Sports Max 5",
               "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png",
               "streams": [
                 {
@@ -183,7 +183,7 @@
               ]
             },
             {
-              "name": "Bein Sports Max 6 4K°",
+              "name": "beIN Sports Max 6",
               "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png",
               "streams": [
                 {
@@ -219,7 +219,7 @@
           "category": "|AR| ✪ LEBANON",
           "channels": [
             {
-              "name": "|LBN| AL Jadeed",
+              "name": "AL Jadeed",
               "icon": "http://138.199.27.237:8080/0tv_logo/785.png",
               "streams": [
                 {
@@ -240,7 +240,7 @@
               ]
             },
             {
-              "name": "|LBN| Almashhad",
+              "name": "Almashhad",
               "icon": "https://lo1.in/FCB/mashhad.png",
               "streams": [
                 {
@@ -256,7 +256,7 @@
               ]
             },
             {
-              "name": "|LBN| LBC International ᴴᴰ",
+              "name": "LBC International",
               "icon": "http://138.199.27.237:8080/0tv_logo/170.png",
               "streams": [
                 {
@@ -267,7 +267,7 @@
               ]
             },
             {
-              "name": "|LBN| MTV Lebanon",
+              "name": "MTV Lebanon",
               "icon": "http://138.199.27.237:8080/0tv_logo/163.png",
               "streams": [
                 {
@@ -283,7 +283,7 @@
               ]
             },
             {
-              "name": "|LBN| ONE",
+              "name": "ONE",
               "icon": "http://138.199.27.237:8080/ASIA/LEBANON/ONE-LB.png",
               "streams": [
                 {
@@ -304,7 +304,7 @@
           "category": "|AR| ✪ ARABIC NEWS",
           "channels": [
             {
-              "name": "|NEWS| AL ARABIA",
+              "name": "AL ARABIA",
               "icon": "http://138.199.27.237:8080/ARABE/ALARABIYA.png",
               "streams": [
                 {
@@ -325,7 +325,7 @@
               ]
             },
             {
-              "name": "|NEWS| AL ARABY TV",
+              "name": "AL ARABY TV",
               "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png",
               "streams": [
                 {
@@ -341,7 +341,7 @@
               ]
             },
             {
-              "name": "|NEWS| AL MAYADEEN TV",
+              "name": "AL MAYADEEN TV",
               "icon": "http://138.199.27.237:8080/0tv_logo/132.png",
               "streams": [
                 {
@@ -352,7 +352,7 @@
               ]
             },
             {
-              "name": "|NEWS| AlJazeera",
+              "name": "AlJazeera",
               "icon": "http://138.199.27.237:8080/NEDERLAND/ALJAZEERA.png",
               "streams": [
                 {
@@ -378,7 +378,7 @@
               ]
             },
             {
-              "name": "|NEWS| BBC Arabic",
+              "name": "BBC Arabic",
               "icon": "http://138.199.27.237:8080/ARABE/BBCARABIC.png",
               "streams": [
                 {
@@ -389,7 +389,7 @@
               ]
             },
             {
-              "name": "|NEWS| CNBC ARABIYA",
+              "name": "CNBC ARABIYA",
               "icon": "http://138.199.27.237:8080/ARABE/CNBCARABIYA.png",
               "streams": [
                 {
@@ -400,7 +400,7 @@
               ]
             },
             {
-              "name": "|NEWS| SKY ARABIC",
+              "name": "SKY ARABIC",
               "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg",
               "streams": [
                 {
@@ -416,7 +416,7 @@
               ]
             },
             {
-              "name": "|NEWS| TRT ARABIC",
+              "name": "TRT ARABIC",
               "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png",
               "streams": [
                 {
@@ -447,7 +447,7 @@
           "category": "|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7",
           "channels": [
             {
-              "name": "|KIDS| beIN Boomerang.",
+              "name": "beIN Boomerang.",
               "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
                 {
@@ -458,7 +458,7 @@
               ]
             },
             {
-              "name": "|KIDS| beIN Cart Net Bein AR",
+              "name": "beIN Cart Net Bein AR",
               "icon": "http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png",
               "streams": [
                 {
@@ -469,7 +469,7 @@
               ]
             },
             {
-              "name": "|KIDS| GULLI ARABIC",
+              "name": "GULLI ARABIC",
               "icon": "http://138.199.27.237:8080/0tv_logo/222.png",
               "streams": [
                 {
@@ -480,7 +480,7 @@
               ]
             },
             {
-              "name": "|KIDS| MBC 3",
+              "name": "MBC 3",
               "icon": "http://138.199.27.237:8080/MY-HD/ MY MBC3.png",
               "streams": [
                 {
@@ -491,7 +491,7 @@
               ]
             },
             {
-              "name": "|KIDS| Movies Kids ᴴᴰ",
+              "name": "Movies Kids",
               "icon": "http://138.199.27.237:8080/OSN/OSN-Kids.png",
               "streams": [
                 {
@@ -502,7 +502,7 @@
               ]
             },
             {
-              "name": "|KIDS| Nickelodeon Jr ᴴᴰ",
+              "name": "Nickelodeon Jr",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
               "streams": [
                 {
@@ -513,7 +513,7 @@
               ]
             },
             {
-              "name": "|KIDS| OSN NICKTOONS",
+              "name": "OSN NICKTOONS",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
               "streams": [
                 {
@@ -524,7 +524,7 @@
               ]
             },
             {
-              "name": "|KIDS| Rotana Kids ᴴᴰ",
+              "name": "Rotana Kids",
               "icon": "http://138.199.27.237:8080/ROTANA/Rotana_Kids.png",
               "streams": [
                 {
@@ -535,7 +535,7 @@
               ]
             },
             {
-              "name": "|KIDS| SPACETOON",
+              "name": "SPACETOON",
               "icon": "http://138.199.27.237:8080/KIDS/SPACETOON.png",
               "streams": [
                 {
@@ -546,7 +546,7 @@
               ]
             },
             {
-              "name": "|KIDS| TOM AND JERY",
+              "name": "TOM AND JERY",
               "icon": "http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg",
               "streams": [
                 {
@@ -557,7 +557,7 @@
               ]
             },
             {
-              "name": "|SA| Disney Junior (AR)",
+              "name": "Disney Junior (AR)",
               "icon": "https://e7.pngegg.com/pngimages/310/617/png-clipart-disney-logo-art-disney-channel-television-channel-disney-xd-disney-junior-monster-inc-miscellaneous-television-thumbnail.png",
               "streams": [
                 {
@@ -573,7 +573,7 @@
           "category": "|AR| ✪ MBC | ROTANA",
           "channels": [
             {
-              "name": "|AR|  MBC TOONS",
+              "name": "MBC TOONS",
               "icon": "https://media.majarracdn.cloud/manhom/mgmt/images/33782/1730127777/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-mbc.jpg",
               "streams": [
                 {
@@ -594,7 +594,7 @@
           "category": "|FR| ✪ JEUNESSE",
           "channels": [
             {
-              "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
+              "name": "TELETOON +1",
               "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
               "streams": [
                 {
@@ -605,7 +605,7 @@
               ]
             },
             {
-              "name": "|FR| Boomerang",
+              "name": "Boomerang",
               "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
                 {
@@ -621,7 +621,7 @@
               ]
             },
             {
-              "name": "|FR| Cartoon Network",
+              "name": "Cartoon Network",
               "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png",
               "streams": [
                 {
@@ -642,7 +642,7 @@
               ]
             },
             {
-              "name": "|FR| Cartoonito ᵁᴴᴰ",
+              "name": "Cartoonito",
               "icon": "https://iconape.com/wp-content/png_logo_vector/gametoon-hd-logo.png",
               "streams": [
                 {
@@ -653,7 +653,7 @@
               ]
             },
             {
-              "name": "|FR| DISNEY CHANNEL",
+              "name": "DISNEY CHANNEL",
               "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
               "streams": [
                 {
@@ -679,7 +679,7 @@
               ]
             },
             {
-              "name": "|FR| Disney Junior",
+              "name": "Disney Junior",
               "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
               "streams": [
                 {
@@ -695,7 +695,7 @@
               ]
             },
             {
-              "name": "|FR| Nickelodeon +1",
+              "name": "Nickelodeon +1",
               "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png",
               "streams": [
                 {
@@ -711,7 +711,7 @@
               ]
             },
             {
-              "name": "|FR| Nickelodeon Jr ᴴᴰ",
+              "name": "Nickelodeon Jr",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
               "streams": [
                 {
@@ -727,7 +727,7 @@
               ]
             },
             {
-              "name": "|FR| NICKELODEON Toons",
+              "name": "NICKELODEON Toons",
               "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
               "streams": [
                 {
@@ -743,7 +743,7 @@
               ]
             },
             {
-              "name": "|FR| Piwi+",
+              "name": "Piwi+",
               "icon": "http://138.199.27.237:8080/0tv_logo/5072.png",
               "streams": [
                 {
@@ -769,7 +769,7 @@
               ]
             },
             {
-              "name": "|FR| Teletoon +1 ᴴᴰ",
+              "name": "Teletoon +1",
               "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
               "streams": [
                 {
@@ -780,7 +780,7 @@
               ]
             },
             {
-              "name": "|FR| Teletoon+ ᴴᴰ",
+              "name": "Teletoon+",
               "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
               "streams": [
                 {
@@ -791,7 +791,7 @@
               ]
             },
             {
-              "name": "|FR| TiJi",
+              "name": "TiJi",
               "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png",
               "streams": [
                 {
@@ -833,7 +833,7 @@
           "category": "|US| ✪ KIDS NETWORK",
           "channels": [
             {
-              "name": "|US| Boomerang ᴴᴰ",
+              "name": "Boomerang",
               "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
                 {
@@ -844,7 +844,7 @@
               ]
             },
             {
-              "name": "|US| Cartoon Network",
+              "name": "Cartoon Network",
               "icon": "http://138.199.27.237:8080/USA/CARTOONNETWORK.png",
               "streams": [
                 {
@@ -855,7 +855,7 @@
               ]
             },
             {
-              "name": "|US| Disney",
+              "name": "Disney",
               "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
               "streams": [
                 {
@@ -871,7 +871,7 @@
               ]
             },
             {
-              "name": "|US| Disney Jr",
+              "name": "Disney Jr",
               "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
               "streams": [
                 {
@@ -887,7 +887,7 @@
               ]
             },
             {
-              "name": "|US| NICK JR",
+              "name": "NICK JR",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
               "streams": [
                 {
@@ -898,7 +898,7 @@
               ]
             },
             {
-              "name": "|US| NICKELODEON",
+              "name": "NICKELODEON",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",
               "streams": [
                 {
@@ -909,7 +909,7 @@
               ]
             },
             {
-              "name": "|US| TeenNick",
+              "name": "TeenNick",
               "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
               "streams": [
                 {
@@ -925,7 +925,7 @@
           "category": "|UK| ✪ KIDS",
           "channels": [
             {
-              "name": "|UK|   NICKTOONS",
+              "name": "NICKTOONS",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
               "streams": [
                 {
@@ -936,7 +936,7 @@
               ]
             },
             {
-              "name": "|UK|  NICKELODEON",
+              "name": "NICKELODEON",
               "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",
               "streams": [
                 {
@@ -957,7 +957,7 @@
               ]
             },
             {
-              "name": "|UK| BOOMERANG",
+              "name": "BOOMERANG",
               "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
               "streams": [
                 {
@@ -973,7 +973,7 @@
               ]
             },
             {
-              "name": "|UK| CARTOON NETWORK",
+              "name": "CARTOON NETWORK",
               "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png",
               "streams": [
                 {
@@ -999,7 +999,7 @@
               ]
             },
             {
-              "name": "|UK| CARTOONITO",
+              "name": "CARTOONITO",
               "icon": "http://138.199.27.237:8080/UK/CARTOONITO.png",
               "streams": [
                 {
@@ -1010,7 +1010,7 @@
               ]
             },
             {
-              "name": "|UK| SKY KIDS",
+              "name": "SKY KIDS",
               "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png",
               "streams": [
                 {
@@ -1271,7 +1271,7 @@
               ]
             },
             {
-              "name": "PRIME  ANIMATION",
+              "name": "PRIME ANIMATION",
               "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
               "streams": [
                 {
