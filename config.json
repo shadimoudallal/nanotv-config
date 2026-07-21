@@ -203,27 +203,6 @@
                   "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg"
                 }
               ]
-            },
-            {
-              "name": "TRT ARABIC",
-              "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png",
-              "streams": [
-                {
-                  "id": "468722",
-                  "name": "|NEWS| TRT Arabi ᵁᴴᴰ",
-                  "icon": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Factual_News/TRT_Arabi.png"
-                },
-                {
-                  "id": "50203",
-                  "name": "|NEWS| TRT ARABI ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png"
-                },
-                {
-                  "id": "162",
-                  "name": "|NEWS| TRT ARABIC",
-                  "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png"
-                }
-              ]
             }
           ]
         }
