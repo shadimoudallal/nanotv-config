@@ -5,6 +5,217 @@
       "isdefault": true,
       "categories": [
         {
+          "category": "|AR| ✪ FIFA WORLD CUP 2026",
+          "channels": [
+            {
+              "name": "beIN SPORTS MAX 1",
+              "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png",
+              "streams": [
+                {
+                  "id": "1063488",
+                  "name": "beIN Sports MAX 1",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png"
+                },
+                {
+                  "id": "1944357",
+                  "name": "Bein Sports Max 1 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
+                },
+                {
+                  "id": "1944363",
+                  "name": "Bein Sports Max 1 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
+                },
+                {
+                  "id": "1944369",
+                  "name": "Bein Sports Max 1 HD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
+                },
+                {
+                  "id": "1944375",
+                  "name": "Bein Sports Max 1 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX1-SD.png"
+                },
+                {
+                  "id": "1065897",
+                  "name": "beIN SPORTS MAX 1 ULTRA ᵁᴴᴰ",
+                  "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 2",
+              "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-800x500.png",
+              "streams": [
+                {
+                  "id": "1063489",
+                  "name": "beIN Sports MAX 2",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png"
+                },
+                {
+                  "id": "1944358",
+                  "name": "Bein Sports Max 2 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
+                },
+                {
+                  "id": "1944364",
+                  "name": "Bein Sports Max 2 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
+                },
+                {
+                  "id": "1944370",
+                  "name": "Bein Sports Max 2 HD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
+                },
+                {
+                  "id": "1944376",
+                  "name": "Bein Sports Max 2 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-SD.png"
+                },
+                {
+                  "id": "1065898",
+                  "name": "beIN SPORTS MAX 2 ULTRA ᵁᴴᴰ",
+                  "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-800x500.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 3",
+              "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-1.png",
+              "streams": [
+                {
+                  "id": "1948328",
+                  "name": "beIN Sports MAX 3",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png"
+                },
+                {
+                  "id": "1944359",
+                  "name": "Bein Sports Max 3 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
+                },
+                {
+                  "id": "1944365",
+                  "name": "Bein Sports Max 3 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
+                },
+                {
+                  "id": "1944371",
+                  "name": "Bein Sports Max 3 HD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
+                },
+                {
+                  "id": "1944377",
+                  "name": "Bein Sports Max 3 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX3-SD.png"
+                },
+                {
+                  "id": "1065899",
+                  "name": "beIN SPORTS MAX 3 ULTRA ᵁᴴᴰ",
+                  "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-1.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS MAX 4",
+              "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-2.png",
+              "streams": [
+                {
+                  "id": "1948329",
+                  "name": "beIN Sports MAX 4",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX2-HD.png"
+                },
+                {
+                  "id": "146062",
+                  "name": "beIN Sports MAX 4  HD",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-HD.png"
+                },
+                {
+                  "id": "1065900",
+                  "name": "beIN SPORTS MAX 4  ULTRA ᵁᴴᴰ",
+                  "icon": "https://www.egblog.news/wp-content/uploads/2024/01/value-2.png"
+                },
+                {
+                  "id": "1944360",
+                  "name": "Bein Sports Max 4 4K°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png"
+                },
+                {
+                  "id": "1944366",
+                  "name": "Bein Sports Max 4 FHD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png"
+                },
+                {
+                  "id": "1944378",
+                  "name": "Bein Sports Max 4 SD°",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MAX4-SD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports Max 5",
+              "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png",
+              "streams": [
+                {
+                  "id": "1944361",
+                  "name": "Bein Sports Max 5 4K°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
+                },
+                {
+                  "id": "1944367",
+                  "name": "Bein Sports Max 5 FHD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
+                },
+                {
+                  "id": "1944373",
+                  "name": "Bein Sports Max 5 HD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
+                },
+                {
+                  "id": "1944379",
+                  "name": "Bein Sports Max 5 SD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_5.png"
+                },
+                {
+                  "id": "1946726",
+                  "name": "beIN SPORTS MAX 5 ULTRA ᵁᴴᴰ",
+                  "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports Max 6",
+              "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png",
+              "streams": [
+                {
+                  "id": "1944362",
+                  "name": "Bein Sports Max 6 4K°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png"
+                },
+                {
+                  "id": "1944368",
+                  "name": "Bein Sports Max 6 FHD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png"
+                },
+                {
+                  "id": "1946734",
+                  "name": "beIN Sports MAX 6 ᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/BEIN/BEIN-MAX/bein_sports-MA-X1-HD.png"
+                },
+                {
+                  "id": "1944380",
+                  "name": "Bein Sports Max 6 SD°",
+                  "icon": "https://r2.thesportsdb.com/images/media/channel/logo/BeIn_Sports_Max_6.png"
+                },
+                {
+                  "id": "1946731",
+                  "name": "beIN SPORTS MAX 6 ULTRA ᵁᴴᴰ",
+                  "icon": "https://img.kooora.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "category": "|AR| ✪ LEBANON",
           "channels": [
             {
@@ -201,6 +412,27 @@
                   "id": "161",
                   "name": "|NEWS| Sky News Arabiya ᴴᴰ",
                   "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg"
+                }
+              ]
+            },
+            {
+              "name": "TRT ARABIC",
+              "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png",
+              "streams": [
+                {
+                  "id": "468722",
+                  "name": "|NEWS| TRT Arabi ᵁᴴᴰ",
+                  "icon": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Factual_News/TRT_Arabi.png"
+                },
+                {
+                  "id": "50203",
+                  "name": "|NEWS| TRT ARABI ᵁᴴᴰ",
+                  "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png"
+                },
+                {
+                  "id": "162",
+                  "name": "|NEWS| TRT ARABIC",
+                  "icon": "http://138.199.27.237:8080/EUROPE/MALTA/TRT ARABI.png"
                 }
               ]
             }
@@ -831,17 +1063,6 @@
               ]
             },
             {
-              "name": "DISNEY+ ANIMATION",
-              "icon": "https://iili.io/wvqAu9.md.png",
-              "streams": [
-                {
-                  "id": "1904139",
-                  "name": "DISNEY+ ANIMATION",
-                  "icon": "https://iili.io/wvqAu9.md.png"
-                }
-              ]
-            },
-            {
               "name": "DISNEY+ BOX OFFICE",
               "icon": "https://iili.io/wvqAu9.md.png",
               "streams": [
@@ -1039,17 +1260,6 @@
               ]
             },
             {
-              "name": "PRIME ANIMATION",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
-              "streams": [
-                {
-                  "id": "1941778",
-                  "name": "PRIME  ANIMATION",
-                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
-                }
-              ]
-            },
-            {
               "name": "PRIME BOX OFFICE",
               "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
               "streams": [
@@ -1143,17 +1353,6 @@
               ]
             },
             {
-              "name": "PLUTO ANIMATION",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
-              "streams": [
-                {
-                  "id": "1938506",
-                  "name": "PLUTO ANIMATION",
-                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
-                }
-              ]
-            },
-            {
               "name": "PLUTO COMED",
               "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
               "streams": [
@@ -1216,6 +1415,381 @@
                   "id": "1938512",
                   "name": "PLUTO THRILLER",
                   "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kids Movies",
+      "categories": [
+        {
+          "category": "|AR| ✪ PRIME MOVIES",
+          "channels": [
+            {
+              "name": "PRIME ANIMATION",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "streams": [
+                {
+                  "id": "1941778",
+                  "name": "PRIME  ANIMATION",
+                  "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|AR| ✪ PLUTO MOVIES",
+          "channels": [
+            {
+              "name": "PLUTO ANIMATION",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1938506",
+                  "name": "PLUTO ANIMATION",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|AR| ✪ NETFLIX MOVIES",
+          "channels": [
+            {
+              "name": "NETFLIX ANIMATION",
+              "icon": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png",
+              "streams": [
+                {
+                  "id": "1921478",
+                  "name": "NETFLIX ANIMATION",
+                  "icon": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|UK| ✪ NETFLIX MOVIES",
+          "channels": [
+            {
+              "name": "NETFLIX ANIMATION",
+              "icon": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png",
+              "streams": [
+                {
+                  "id": "1956235",
+                  "name": "NETFLIX ANIMATION",
+                  "icon": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|UK| ✪ DISNEY+ MOVIES",
+          "channels": [
+            {
+              "name": "DISNEY+ ANIMATION",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1944517",
+                  "name": "DISNEY+ ANIMATION",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|UK| ✪ PLUTO MOVIES",
+          "channels": [
+            {
+              "name": "PLUTO ANIMATION",
+              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "streams": [
+                {
+                  "id": "1953646",
+                  "name": "PLUTO ANIMATION",
+                  "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|AR| ✪ DISNEY+ MOVIES",
+          "channels": [
+            {
+              "name": "DISNEY+ ANIMATION",
+              "icon": "https://iili.io/wvqAu9.md.png",
+              "streams": [
+                {
+                  "id": "1904139",
+                  "name": "DISNEY+ ANIMATION",
+                  "icon": "https://iili.io/wvqAu9.md.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7",
+          "channels": [
+            {
+              "name": "CARTON ARABIC 1",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1749543",
+                  "name": "CARTON ARABIC 1",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 10",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1756748",
+                  "name": "CARTON ARABIC 10",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 11",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1756749",
+                  "name": "CARTON ARABIC 11",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 12",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1756935",
+                  "name": "CARTON ARABIC 12",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 13",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1756936",
+                  "name": "CARTON ARABIC 13",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 14",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1756937",
+                  "name": "CARTON ARABIC 14",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 15",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1761301",
+                  "name": "CARTON ARABIC 15",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 16",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1761302",
+                  "name": "CARTON ARABIC 16",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 17",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1761303",
+                  "name": "CARTON ARABIC 17",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 18",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1763212",
+                  "name": "CARTON ARABIC 18",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 19",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1763213",
+                  "name": "CARTON ARABIC 19",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 2",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1749544",
+                  "name": "CARTON ARABIC 2",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 20",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1763214",
+                  "name": "CARTON ARABIC 20",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 21",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1766913",
+                  "name": "CARTON ARABIC 21",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 22",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1766914",
+                  "name": "CARTON ARABIC 22",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 23",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1766915",
+                  "name": "CARTON ARABIC 23",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 3",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1749545",
+                  "name": "CARTON ARABIC 3",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 4",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1749546",
+                  "name": "CARTON ARABIC 4",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 5",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1749547",
+                  "name": "CARTON ARABIC 5",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 6",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1749548",
+                  "name": "CARTON ARABIC 6",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 7",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1752069",
+                  "name": "CARTON ARABIC 7",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 8",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1752070",
+                  "name": "CARTON ARABIC 8",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
+                }
+              ]
+            },
+            {
+              "name": "CARTON ARABIC 9",
+              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "streams": [
+                {
+                  "id": "1756747",
+                  "name": "CARTON ARABIC 9",
+                  "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png"
                 }
               ]
             }
