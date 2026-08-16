@@ -1593,17 +1593,6 @@
           "category": "AR| LEBANON",
           "channels": [
             {
-              "name": "AR| AL ITTIHAD",
-              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALITTIHAD.png",
-              "streams": [
-                {
-                  "id": "83518",
-                  "name": "AR| AL ITTIHAD",
-                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALITTIHAD.png"
-                }
-              ]
-            },
-            {
               "name": "AR| AL JADEED",
               "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJADEED.png",
               "streams": [
@@ -1627,28 +1616,6 @@
                   "id": "1122851",
                   "name": "AR| AL MASHHAD",
                   "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALMASHHAD.png"
-                }
-              ]
-            },
-            {
-              "name": "AR| AL SIRAT",
-              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALSIRAT.png",
-              "streams": [
-                {
-                  "id": "1069437",
-                  "name": "AR| AL SIRAT",
-                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALSIRAT.png"
-                }
-              ]
-            },
-            {
-              "name": "AR| ALAAN TV",
-              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALAAN.png",
-              "streams": [
-                {
-                  "id": "6610",
-                  "name": "AR| ALAAN TV HD",
-                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALAAN.png"
                 }
               ]
             },
@@ -1741,27 +1708,6 @@
                 {
                   "id": "865230",
                   "name": "AR| AL JAZEERA SD",
-                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
-                }
-              ]
-            },
-            {
-              "name": "AR| AL JAZEERA 2",
-              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png",
-              "streams": [
-                {
-                  "id": "2056484",
-                  "name": "AR| AL JAZEERA 2 FHD",
-                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
-                },
-                {
-                  "id": "2056485",
-                  "name": "AR| AL JAZEERA 2 HD",
-                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
-                },
-                {
-                  "id": "2056486",
-                  "name": "AR| AL JAZEERA 2 SD",
                   "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
                 }
               ]
