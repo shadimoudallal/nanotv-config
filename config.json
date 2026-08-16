@@ -1585,6 +1585,213 @@
           ]
         }
       ]
+    },
+    {
+      "title": "backup",
+      "categories": [
+        {
+          "category": "AR| LEBANON",
+          "channels": [
+            {
+              "name": "AR| AL ITTIHAD",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALITTIHAD.png",
+              "streams": [
+                {
+                  "id": "83518",
+                  "name": "AR| AL ITTIHAD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALITTIHAD.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| AL JADEED",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJADEED.png",
+              "streams": [
+                {
+                  "id": "207201",
+                  "name": "AR| AL JADEED FHD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJADEED.png"
+                },
+                {
+                  "id": "7817",
+                  "name": "AR| AL JADEED HD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJADEED.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| AL MASHHAD",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALMASHHAD.png",
+              "streams": [
+                {
+                  "id": "1122851",
+                  "name": "AR| AL MASHHAD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALMASHHAD.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| AL SIRAT",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALSIRAT.png",
+              "streams": [
+                {
+                  "id": "1069437",
+                  "name": "AR| AL SIRAT",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALSIRAT.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| ALAAN TV",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALAAN.png",
+              "streams": [
+                {
+                  "id": "6610",
+                  "name": "AR| ALAAN TV HD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALAAN.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| LBC INTERNATIONAL",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/LBCINTERNATIONAL.png",
+              "streams": [
+                {
+                  "id": "6595",
+                  "name": "AR| LBC INTERNATIONAL FHD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/LBCINTERNATIONAL.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| MTV LEBANON",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/MTVLEBANON.png",
+              "streams": [
+                {
+                  "id": "207200",
+                  "name": "AR| MTV LEBANON FHD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/MTVLEBANON.png"
+                },
+                {
+                  "id": "6594",
+                  "name": "AR| MTV LEBANON HD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/MTVLEBANON.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| ONE TV LEBANON",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ONETVLEBANON.png",
+              "streams": [
+                {
+                  "id": "923479",
+                  "name": "AR| ONE TV LEBANON HEVC",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ONETVLEBANON.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| RED TV",
+              "icon": "http://51.158.145.100/picons/logos/arabic/658852.png",
+              "streams": [
+                {
+                  "id": "2032543",
+                  "name": "AR| RED TV HD",
+                  "icon": "http://51.158.145.100/picons/logos/arabic/658852.png"
+                }
+              ]
+            }
+          ],
+          "provider_id": 2
+        },
+        {
+          "category": "AR| NEWS",
+          "channels": [
+            {
+              "name": "AR| AL ARABIYA",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALARABIYA.png",
+              "streams": [
+                {
+                  "id": "6615",
+                  "name": "AR| AL ARABIYA HD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALARABIYA.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| AL ARABY TV",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALARABY.png",
+              "streams": [
+                {
+                  "id": "8160",
+                  "name": "AR| AL ARABY TV HD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALARABY.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| AL JAZEERA",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png",
+              "streams": [
+                {
+                  "id": "6614",
+                  "name": "AR| AL JAZEERA FHD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
+                },
+                {
+                  "id": "865230",
+                  "name": "AR| AL JAZEERA SD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| AL JAZEERA 2",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png",
+              "streams": [
+                {
+                  "id": "2056484",
+                  "name": "AR| AL JAZEERA 2 FHD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
+                },
+                {
+                  "id": "2056485",
+                  "name": "AR| AL JAZEERA 2 HD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
+                },
+                {
+                  "id": "2056486",
+                  "name": "AR| AL JAZEERA 2 SD",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALJAZEERA.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| ALMAYADEEN",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALMAYADEEN.png",
+              "streams": [
+                {
+                  "id": "23628",
+                  "name": "AR| ALMAYADEEN",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/ALMAYADEEN.png"
+                }
+              ]
+            },
+            {
+              "name": "AR| SKY NEWS ARABIA",
+              "icon": "http://51.158.145.100/picons/logos/ARABICNEW/SKYNEWSARABIA.png",
+              "streams": [
+                {
+                  "id": "7866",
+                  "name": "AR| SKY NEWS ARABIA",
+                  "icon": "http://51.158.145.100/picons/logos/ARABICNEW/SKYNEWSARABIA.png"
+                }
+              ]
+            }
+          ],
+          "provider_id": 2
+        }
+      ]
     }
   ]
 }
