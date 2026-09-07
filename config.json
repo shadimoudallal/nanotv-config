@@ -9,7 +9,7 @@
           "channels": [
             {
               "name": "AL Jadeed",
-              "icon": "http://57.128.182.77:8080/0tv_logo/785.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljadeed.png",
               "streams": [
                 {
                   "id": "265992",
@@ -30,7 +30,7 @@
             },
             {
               "name": "Almashhad",
-              "icon": "https://lo1.in/FCB/mashhad.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/almashhad.png",
               "streams": [
                 {
                   "id": "1396008",
@@ -46,18 +46,18 @@
             },
             {
               "name": "LBC International",
-              "icon": "http://57.128.182.77:8080/0tv_logo/170.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/lbc.png",
               "streams": [
                 {
                   "id": "199",
                   "name": "|LBN| LBC International ᴴᴰ",
-                  "icon": "http://57.128.182.77:8080/0tv_logo/170.png"
+                  "icon": "https://shadimoudallal.github.io/nanotv-config/logos/lbc.png"
                 }
               ]
             },
             {
               "name": "MTV Lebanon",
-              "icon": "http://57.128.182.77:8080/0tv_logo/163.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/mtv.png",
               "streams": [
                 {
                   "id": "197",
@@ -73,7 +73,7 @@
             },
             {
               "name": "ONE",
-              "icon": "http://57.128.182.77:8080/ASIA/LEBANON/ONE-LB.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/onetv.png",
               "streams": [
                 {
                   "id": "123042",
@@ -94,7 +94,7 @@
           "channels": [
             {
               "name": "AL ARABIA",
-              "icon": "http://57.128.182.77:8080/ARABE/ALARABIYA.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/alarabia.png",
               "streams": [
                 {
                   "id": "50237",
@@ -115,7 +115,7 @@
             },
             {
               "name": "AL ARABY TV",
-              "icon": "https://www.alaraby.com/themes/custom/arabytv/logo.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/alaraby.png",
               "streams": [
                 {
                   "id": "28193",
@@ -131,7 +131,7 @@
             },
             {
               "name": "AL MAYADEEN TV",
-              "icon": "http://57.128.182.77:8080/0tv_logo/132.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/almayadeen.svg",
               "streams": [
                 {
                   "id": "1433",
@@ -142,7 +142,7 @@
             },
             {
               "name": "AlJazeera",
-              "icon": "http://57.128.182.77:8080/NEDERLAND/ALJAZEERA.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljazeera.svg",
               "streams": [
                 {
                   "id": "1443",
@@ -168,7 +168,7 @@
             },
             {
               "name": "BBC Arabic",
-              "icon": "http://57.128.182.77:8080/ARABE/BBCARABIC.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/BBC_Arabic.png",
               "streams": [
                 {
                   "id": "173",
@@ -179,7 +179,7 @@
             },
             {
               "name": "CNBC ARABIYA",
-              "icon": "http://57.128.182.77:8080/ARABE/CNBCARABIYA.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/cnbc-arabiya.png",
               "streams": [
                 {
                   "id": "1396",
@@ -190,7 +190,7 @@
             },
             {
               "name": "SKY ARABIC",
-              "icon": "https://www.eyeofriyadh.com/news_images/2020/01/1c376f37a51aa.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/sky-arabic.jpg",
               "streams": [
                 {
                   "id": "91130",
@@ -206,7 +206,7 @@
             },
             {
               "name": "TRT ARABIC",
-              "icon": "http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Factual_News/TRT_Arabi.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/trt_arabic.png",
               "streams": [
                 {
                   "id": "468722",
@@ -602,7 +602,7 @@
             },
             {
               "name": "FR| WARNER TV NEXT",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png",
+              "icon": "http://138.199.27.237:8080/0tv_logo/5075.png",
               "streams": [
                 {
                   "id": "2580",
@@ -645,7 +645,7 @@
             },
             {
               "name": "Disney",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
+              "icon": "http://logodmtv.ddns.net/logo/5073.png",
               "streams": [
                 {
                   "id": "11209",
