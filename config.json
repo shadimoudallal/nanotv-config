@@ -314,7 +314,7 @@
             },
             {
               "name": "Rotana Kids",
-              "icon": "http://57.128.182.77:8080/ROTANA/Rotana_Kids.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Rotana_Kids.png",
               "streams": [
                 {
                   "id": "52658",
@@ -363,7 +363,7 @@
           "channels": [
             {
               "name": "MBC TOONS",
-              "icon": "https://media.majarracdn.cloud/manhom/mgmt/images/33782/1730127777/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-mbc.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/mbc-toons.png",
               "streams": [
                 {
                   "id": "1785028",
@@ -533,7 +533,7 @@
             },
             {
               "name": "Piwi+",
-              "icon": "http://57.128.182.77:8080/0tv_logo/5072.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Piwi.svg",
               "streams": [
                 {
                   "id": "12798",
@@ -581,7 +581,7 @@
             },
             {
               "name": "TiJi",
-              "icon": "http://57.128.182.77:8080/EUROPE/FRANCE/TIJIFHD.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/tiji.png",
               "streams": [
                 {
                   "id": "299",
@@ -602,7 +602,7 @@
             },
             {
               "name": "FR| WARNER TV NEXT",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Warner.svg",
               "streams": [
                 {
                   "id": "2580",
@@ -645,7 +645,7 @@
             },
             {
               "name": "Disney",
-              "icon": "http://logodmtv.ddns.net/logo/5073.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "11209",
