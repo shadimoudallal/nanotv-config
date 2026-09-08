@@ -9,7 +9,7 @@
           "channels": [
             {
               "name": "AL Jadeed",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljadeed.jpeg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljadeed.png",
               "streams": [
                 {
                   "id": "265992",
@@ -51,7 +51,7 @@
                 {
                   "id": "199",
                   "name": "|LBN| LBC International ᴴᴰ",
-                  "icon": "https://shadimoudallal.github.io/nanotv-config/logos/lbc.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/170.png"
                 }
               ]
             },
@@ -142,7 +142,7 @@
             },
             {
               "name": "AlJazeera",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljazeera.svg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/AlJazeera.png",
               "streams": [
                 {
                   "id": "1443",
@@ -168,7 +168,7 @@
             },
             {
               "name": "BBC Arabic",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/BBC_Arabic.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/bbc-arabic.jpg",
               "streams": [
                 {
                   "id": "173",
@@ -190,7 +190,7 @@
             },
             {
               "name": "SKY ARABIC",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/sky-arabic.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/sky-arabic.png",
               "streams": [
                 {
                   "id": "91130",
@@ -206,7 +206,7 @@
             },
             {
               "name": "TRT ARABIC",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/trt_arabic.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/trt-arabic.png",
               "streams": [
                 {
                   "id": "468722",
@@ -237,117 +237,117 @@
           "channels": [
             {
               "name": "beIN Boomerang.",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Boomerang.svg",
               "streams": [
                 {
                   "id": "2625",
                   "name": "|KIDS| beIN Boomerang.",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5070.png"
                 }
               ]
             },
             {
               "name": "beIN Cart Net Bein AR",
-              "icon": "http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cart%20Net.svg",
               "streams": [
                 {
                   "id": "4757",
                   "name": "|KIDS| beIN Cart Net Bein AR",
-                  "icon": "http://138.199.27.237:8080/KIDS/CARTOONNETWORK.png"
+                  "icon": "http://57.128.182.77:8080/KIDS/CARTOONNETWORK.png"
                 }
               ]
             },
             {
               "name": "GULLI ARABIC",
-              "icon": "http://138.199.27.237:8080/0tv_logo/222.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Gulli.svg",
               "streams": [
                 {
                   "id": "2559",
                   "name": "|KIDS| GULLI ARABIC",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/222.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/222.png"
                 }
               ]
             },
             {
               "name": "MBC 3",
-              "icon": "http://138.199.27.237:8080/MY-HD/ MY MBC3.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/mbc3.svg",
               "streams": [
                 {
                   "id": "1654",
                   "name": "|KIDS| MBC 3",
-                  "icon": "http://138.199.27.237:8080/MY-HD/ MY MBC3.png"
+                  "icon": "http://57.128.182.77:8080/MY-HD/ MY MBC3.png"
                 }
               ]
             },
             {
               "name": "Movies Kids",
-              "icon": "http://138.199.27.237:8080/OSN/OSN-Kids.png",
+              "icon": "http://57.128.182.77:8080/OSN/OSN-Kids.png",
               "streams": [
                 {
                   "id": "41",
                   "name": "|KIDS| Movies Kids ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/OSN/OSN-Kids.png"
+                  "icon": "http://57.128.182.77:8080/OSN/OSN-Kids.png"
                 }
               ]
             },
             {
               "name": "Nickelodeon Jr",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nickelodeon%20JR.svg",
               "streams": [
                 {
                   "id": "14570",
                   "name": "|KIDS| Nickelodeon Jr ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 }
               ]
             },
             {
               "name": "OSN NICKTOONS",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nicktoons.svg",
               "streams": [
                 {
                   "id": "20420",
                   "name": "|KIDS| OSN NICKTOONS",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKTOONS.png"
                 }
               ]
             },
             {
               "name": "Rotana Kids",
-              "icon": "http://138.199.27.237:8080/ROTANA/Rotana_Kids.png",
+              "icon": "http://57.128.182.77:8080/ROTANA/Rotana_Kids.png",
               "streams": [
                 {
                   "id": "52658",
                   "name": "|KIDS| Rotana Kids ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/ROTANA/Rotana_Kids.png"
+                  "icon": "http://57.128.182.77:8080/ROTANA/Rotana_Kids.png"
                 }
               ]
             },
             {
               "name": "SPACETOON",
-              "icon": "http://138.199.27.237:8080/KIDS/SPACETOON.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Spacetoon.png",
               "streams": [
                 {
                   "id": "1283",
                   "name": "|KIDS| SPACETOON",
-                  "icon": "http://138.199.27.237:8080/KIDS/SPACETOON.png"
+                  "icon": "http://57.128.182.77:8080/KIDS/SPACETOON.png"
                 }
               ]
             },
             {
               "name": "TOM AND JERY",
-              "icon": "http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Tom-and-Jerry.png",
               "streams": [
                 {
                   "id": "83880",
                   "name": "|KIDS| TOM AND JERY",
-                  "icon": "http://138.199.27.237:8080/KIDS/Tom_Jerry.jpg"
+                  "icon": "http://57.128.182.77:8080/KIDS/Tom_Jerry.jpg"
                 }
               ]
             },
             {
               "name": "Disney Junior (AR)",
-              "icon": "https://e7.pngegg.com/pngimages/310/617/png-clipart-disney-logo-art-disney-channel-television-channel-disney-xd-disney-junior-monster-inc-miscellaneous-television-thumbnail.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/disney-junior.png",
               "streams": [
                 {
                   "id": "1244192",
@@ -384,55 +384,55 @@
           "channels": [
             {
               "name": "TELETOON +1",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Teletoon.png",
               "streams": [
                 {
                   "id": "32832",
                   "name": "|FR|  TELETOON +1 ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5071.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5071.png"
                 }
               ]
             },
             {
               "name": "Boomerang",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Boomerang.svg",
               "streams": [
                 {
                   "id": "307",
                   "name": "|FR| Boomerang ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5070.png"
                 },
                 {
                   "id": "35528",
                   "name": "|FR| BOOMERANG ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5070.png"
                 }
               ]
             },
             {
               "name": "Cartoon Network",
-              "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cartoon_Network.svg",
               "streams": [
                 {
                   "id": "306",
                   "name": "|FR| Cartoon Network ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/CARTOONNETWORKHD.png"
                 },
                 {
                   "id": "12883",
                   "name": "|FR| CARTOON NETWORK ˢᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/CARTOONNETWORKHD.png"
                 },
                 {
                   "id": "148484",
                   "name": "|FR| CARTOON NETWORK ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/CARTOONNETWORKHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/CARTOONNETWORKHD.png"
                 }
               ]
             },
             {
               "name": "Cartoonito",
-              "icon": "https://iconape.com/wp-content/png_logo_vector/gametoon-hd-logo.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cartoonito.png",
               "streams": [
                 {
                   "id": "88442",
@@ -443,171 +443,171 @@
             },
             {
               "name": "DISNEY CHANNEL",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5073.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "302",
                   "name": "|FR| Disney Channel ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5073.png"
                 },
                 {
                   "id": "12863",
                   "name": "|FR| DISNEY CHANNEL ˢᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5073.png"
                 },
                 {
                   "id": "250646",
                   "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5073.png"
                 },
                 {
                   "id": "35529",
                   "name": "|FR| DISNEY CHANNEL ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5073.png"
                 }
               ]
             },
             {
               "name": "Disney Junior",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/disney-junior.png",
               "streams": [
                 {
                   "id": "305",
                   "name": "|FR| Disney Junior ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5074.png"
                 },
                 {
                   "id": "32827",
                   "name": "|FR| DISNEY JUNIOR ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5074.png"
                 }
               ]
             },
             {
               "name": "Nickelodeon +1",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nickelodeon.png",
               "streams": [
                 {
                   "id": "8193",
                   "name": "|FR| Nickelodeon +1 ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICK+1.png"
                 },
                 {
                   "id": "274855",
                   "name": "|FR| NICKELODEON+1 ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICK+1.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICK+1.png"
                 }
               ]
             },
             {
               "name": "Nickelodeon Jr",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nickelodeon%20JR.svg",
               "streams": [
                 {
                   "id": "308",
                   "name": "|FR| Nick Jr ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 },
                 {
                   "id": "310",
                   "name": "|FR| Nickelodeon Jr ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 }
               ]
             },
             {
               "name": "NICKELODEON Toons",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nickelodeon%20toons.svg",
               "streams": [
                 {
                   "id": "4184",
                   "name": "|FR| NICKELODEON 4 Teen ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICK4TEEN.png"
                 },
                 {
                   "id": "35533",
                   "name": "|FR| NICKELODEON 4TEEN ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICK4TEEN.png"
                 }
               ]
             },
             {
               "name": "Piwi+",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5072.png",
+              "icon": "http://57.128.182.77:8080/0tv_logo/5072.png",
               "streams": [
                 {
                   "id": "12798",
                   "name": "|FR| PIWI  ˢᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5072.png"
                 },
                 {
                   "id": "1228",
                   "name": "|FR| PIWI ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5072.png"
                 },
                 {
                   "id": "298",
                   "name": "|FR| Piwi+ ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5072.png"
                 },
                 {
                   "id": "148483",
                   "name": "|FR| PIWI+ ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5072.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5072.png"
                 }
               ]
             },
             {
               "name": "Teletoon +1",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Teletoon.png",
               "streams": [
                 {
                   "id": "301",
                   "name": "|FR| Teletoon +1 ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5071.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5071.png"
                 }
               ]
             },
             {
               "name": "Teletoon+",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5071.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Teletoon.png",
               "streams": [
                 {
                   "id": "300",
                   "name": "|FR| Teletoon+ ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5071.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5071.png"
                 }
               ]
             },
             {
               "name": "TiJi",
-              "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png",
+              "icon": "http://57.128.182.77:8080/EUROPE/FRANCE/TIJIFHD.png",
               "streams": [
                 {
                   "id": "299",
                   "name": "|FR| TiJi ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png"
+                  "icon": "http://57.128.182.77:8080/EUROPE/FRANCE/TIJIFHD.png"
                 },
                 {
                   "id": "12772",
                   "name": "|FR| TIJI ˢᴰ",
-                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png"
+                  "icon": "http://57.128.182.77:8080/EUROPE/FRANCE/TIJIFHD.png"
                 },
                 {
                   "id": "148485",
                   "name": "|FR| TIJI ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/EUROPE/FRANCE/TIJIFHD.png"
+                  "icon": "http://57.128.182.77:8080/EUROPE/FRANCE/TIJIFHD.png"
                 }
               ]
             },
             {
               "name": "FR| WARNER TV NEXT",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5075.png",
+              "icon": "https://upload.wikimedia.org/wikipedia/commons/2/29/Warner_TV_Next_logo.png",
               "streams": [
                 {
                   "id": "2580",
                   "name": "|FR| TOONAMI ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5075.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5075.png"
                 },
                 {
                   "id": "1041917",
@@ -623,23 +623,23 @@
           "channels": [
             {
               "name": "Boomerang",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Boomerang.svg",
               "streams": [
                 {
                   "id": "13115",
                   "name": "|US| Boomerang ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5070.png"
                 }
               ]
             },
             {
               "name": "Cartoon Network",
-              "icon": "http://138.199.27.237:8080/USA/CARTOONNETWORK.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cartoon_Network.svg",
               "streams": [
                 {
                   "id": "11153",
                   "name": "|US| Cartoon Network",
-                  "icon": "http://138.199.27.237:8080/USA/CARTOONNETWORK.png"
+                  "icon": "http://57.128.182.77:8080/USA/CARTOONNETWORK.png"
                 }
               ]
             },
@@ -655,56 +655,56 @@
                 {
                   "id": "13117",
                   "name": "|US| Disney Channel ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5073.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5073.png"
                 }
               ]
             },
             {
               "name": "Disney Jr",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5074.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "11207",
                   "name": "|US| Disney Jr",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5074.png"
                 },
                 {
                   "id": "13118",
                   "name": "|US| Disney Jr. ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5074.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5074.png"
                 }
               ]
             },
             {
               "name": "NICK JR",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nick_JR.svg",
               "streams": [
                 {
                   "id": "14624",
                   "name": "|US| NICK JR",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONJUNIORHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKELODEONJUNIORHD.png"
                 }
               ]
             },
             {
               "name": "NICKELODEON",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nickelodeon.png",
               "streams": [
                 {
                   "id": "13122",
                   "name": "|US| NICKELODEON",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKELODEONHD.png"
                 }
               ]
             },
             {
               "name": "TeenNick",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/TeenNick.svg",
               "streams": [
                 {
                   "id": "54233",
                   "name": "|US| TeenNick",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICK4TEEN.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICK4TEEN.png"
                 }
               ]
             }
@@ -715,107 +715,107 @@
           "channels": [
             {
               "name": "NICKTOONS",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nicktoons.svg",
               "streams": [
                 {
                   "id": "13609",
                   "name": "|UK|   NICKTOONS",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKTOONS.png"
                 }
               ]
             },
             {
               "name": "NICKELODEON",
-              "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nickelodeon.png",
               "streams": [
                 {
                   "id": "13610",
                   "name": "|UK|  NICKELODEON",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKELODEONHD.png"
                 },
                 {
                   "id": "13626",
                   "name": "|UK|  NICKTOONS",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKTOONS.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKTOONS.png"
                 },
                 {
                   "id": "10540",
                   "name": "|UK| NICK ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/FRANCE/NICKELODEONHD.png"
+                  "icon": "http://57.128.182.77:8080/FRANCE/NICKELODEONHD.png"
                 }
               ]
             },
             {
               "name": "BOOMERANG",
-              "icon": "http://138.199.27.237:8080/0tv_logo/5070.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Boomerang.svg",
               "streams": [
                 {
                   "id": "13635",
                   "name": "|UK| BOOMERANG",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5070.png"
                 },
                 {
                   "id": "13634",
                   "name": "|UK| BOOMERANG  1",
-                  "icon": "http://138.199.27.237:8080/0tv_logo/5070.png"
+                  "icon": "http://57.128.182.77:8080/0tv_logo/5070.png"
                 }
               ]
             },
             {
               "name": "CARTOON NETWORK",
-              "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cartoon_Network.svg",
               "streams": [
                 {
                   "id": "13624",
                   "name": "|UK| CARTOON NETWORK",
-                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                  "icon": "http://57.128.182.77:8080/UK/CARTOONNETWORK.png"
                 },
                 {
                   "id": "13633",
                   "name": "|UK| CARTOON NETWORK",
-                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                  "icon": "http://57.128.182.77:8080/UK/CARTOONNETWORK.png"
                 },
                 {
                   "id": "22236",
                   "name": "|UK| CARTOON NETWORK  ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                  "icon": "http://57.128.182.77:8080/UK/CARTOONNETWORK.png"
                 },
                 {
                   "id": "13632",
                   "name": "|UK| CARTOON NETWORK 1",
-                  "icon": "http://138.199.27.237:8080/UK/CARTOONNETWORK.png"
+                  "icon": "http://57.128.182.77:8080/UK/CARTOONNETWORK.png"
                 }
               ]
             },
             {
               "name": "CARTOONITO",
-              "icon": "http://138.199.27.237:8080/UK/CARTOONITO.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cartoonito.png",
               "streams": [
                 {
                   "id": "13631",
                   "name": "|UK| CARTOONITO",
-                  "icon": "http://138.199.27.237:8080/UK/CARTOONITO.png"
+                  "icon": "http://57.128.182.77:8080/UK/CARTOONITO.png"
                 }
               ]
             },
             {
               "name": "SKY KIDS",
-              "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Sky_Kids.png",
               "streams": [
                 {
                   "id": "288702",
                   "name": "|UK| SKY KIDS ᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png"
+                  "icon": "http://57.128.182.77:8080/UK/SKYKIDS.png"
                 },
                 {
                   "id": "288701",
                   "name": "|UK| SKY KIDS ˢᴰ",
-                  "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png"
+                  "icon": "http://57.128.182.77:8080/UK/SKYKIDS.png"
                 },
                 {
                   "id": "288703",
                   "name": "|UK| SKY KIDS ᵁᴴᴰ",
-                  "icon": "http://138.199.27.237:8080/UK/SKYKIDS.png"
+                  "icon": "http://57.128.182.77:8080/UK/SKYKIDS.png"
                 }
               ]
             }
@@ -831,7 +831,7 @@
           "channels": [
             {
               "name": "DISNEY+ FANTASY",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1961000",
@@ -842,7 +842,7 @@
             },
             {
               "name": "DISNEY+ ACTION",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904140",
@@ -853,7 +853,7 @@
             },
             {
               "name": "DISNEY+ BOX OFFICE",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904138",
@@ -864,7 +864,7 @@
             },
             {
               "name": "DISNEY+ COMEDY",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904137",
@@ -875,7 +875,7 @@
             },
             {
               "name": "DISNEY+ DRAMA",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904136",
@@ -886,7 +886,7 @@
             },
             {
               "name": "DISNEY+ HORROR",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904135",
@@ -897,7 +897,7 @@
             },
             {
               "name": "DISNEY+ ROMANCE",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904134",
@@ -908,7 +908,7 @@
             },
             {
               "name": "DISNEY+ SCI-FI",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904133",
@@ -919,7 +919,7 @@
             },
             {
               "name": "DISNEY+ THRILLER",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904132",
@@ -1283,7 +1283,7 @@
           "channels": [
             {
               "name": "DISNEY+ ANIMATION",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1944517",
@@ -1315,7 +1315,7 @@
           "channels": [
             {
               "name": "DISNEY+ ANIMATION",
-              "icon": "https://iili.io/wvqAu9.md.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
               "streams": [
                 {
                   "id": "1904139",
