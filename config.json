@@ -167,17 +167,6 @@
               ]
             },
             {
-              "name": "BBC Arabic",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/bbc-arabic.jpg",
-              "streams": [
-                {
-                  "id": "173",
-                  "name": "|NEWS| BBC Arabic",
-                  "icon": "http://57.128.182.77:8080/ARABE/BBCARABIC.png"
-                }
-              ]
-            },
-            {
               "name": "CNBC ARABIYA",
               "icon": "https://shadimoudallal.github.io/nanotv-config/logos/cnbc-arabiya.png",
               "streams": [
