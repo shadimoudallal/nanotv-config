@@ -924,7 +924,7 @@
           "channels": [
             {
               "name": "HBO ACTION",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912333",
@@ -935,7 +935,7 @@
             },
             {
               "name": "HBO BOX OFFICE",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912331",
@@ -946,7 +946,7 @@
             },
             {
               "name": "HBO COMEDY",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912330",
@@ -957,7 +957,7 @@
             },
             {
               "name": "HBO CRIME",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912332",
@@ -968,7 +968,7 @@
             },
             {
               "name": "HBO DRAMA",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912329",
@@ -979,7 +979,7 @@
             },
             {
               "name": "HBO HORROR",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912328",
@@ -990,7 +990,7 @@
             },
             {
               "name": "HBO ROMANCE",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912334",
@@ -1001,7 +1001,7 @@
             },
             {
               "name": "HBO SCI-FI",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912326",
@@ -1012,7 +1012,7 @@
             },
             {
               "name": "HBO THRILLER",
-              "icon": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/07/hbo-max-logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/hbo.png",
               "streams": [
                 {
                   "id": "1912325",
@@ -1028,7 +1028,7 @@
           "channels": [
             {
               "name": "PRIME ACTION",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941779",
@@ -1039,7 +1039,7 @@
             },
             {
               "name": "PRIME BOX OFFICE",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941777",
@@ -1050,7 +1050,7 @@
             },
             {
               "name": "PRIME COMEDY",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941776",
@@ -1061,7 +1061,7 @@
             },
             {
               "name": "PRIME CRIME",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941773",
@@ -1072,7 +1072,7 @@
             },
             {
               "name": "PRIME DRAMA",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941775",
@@ -1083,7 +1083,7 @@
             },
             {
               "name": "PRIME HORROR",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941774",
@@ -1094,7 +1094,7 @@
             },
             {
               "name": "PRIME SCI-FI",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941772",
@@ -1105,7 +1105,7 @@
             },
             {
               "name": "PRIME THRILLER",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941771",
@@ -1121,7 +1121,7 @@
           "channels": [
             {
               "name": "PLUTO ACTION",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938505",
@@ -1132,7 +1132,7 @@
             },
             {
               "name": "PLUTO COMED",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938508",
@@ -1143,7 +1143,7 @@
             },
             {
               "name": "PLUTO DRAMA",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938509",
@@ -1154,7 +1154,7 @@
             },
             {
               "name": "PLUTO HORROR",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938510",
@@ -1165,7 +1165,7 @@
             },
             {
               "name": "PLUTO ROMANCE",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938514",
@@ -1176,7 +1176,7 @@
             },
             {
               "name": "PLUTO SCI-FI",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938513",
@@ -1187,7 +1187,7 @@
             },
             {
               "name": "PLUTO THRILLER",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938512",
@@ -1208,7 +1208,7 @@
           "channels": [
             {
               "name": "PRIME ANIMATION",
-              "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Prime_logo_%282024%29.svg/1280px-Amazon_Prime_logo_%282024%29.svg.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/prime.svg",
               "streams": [
                 {
                   "id": "1941778",
@@ -1224,7 +1224,7 @@
           "channels": [
             {
               "name": "PLUTO ANIMATION",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1938506",
@@ -1240,7 +1240,7 @@
           "channels": [
             {
               "name": "NETFLIX ANIMATION",
-              "icon": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/netflix.png",
               "streams": [
                 {
                   "id": "1921478",
@@ -1256,7 +1256,7 @@
           "channels": [
             {
               "name": "NETFLIX ANIMATION",
-              "icon": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/netflix.png",
               "streams": [
                 {
                   "id": "1956235",
@@ -1288,7 +1288,7 @@
           "channels": [
             {
               "name": "PLUTO ANIMATION",
-              "icon": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/10/31214003/Pluto-TV-Logo.jpg",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Pluto.jpg",
               "streams": [
                 {
                   "id": "1953646",
@@ -1320,7 +1320,7 @@
           "channels": [
             {
               "name": "CARTON ARABIC 1",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1749543",
@@ -1331,7 +1331,7 @@
             },
             {
               "name": "CARTON ARABIC 10",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1756748",
@@ -1342,7 +1342,7 @@
             },
             {
               "name": "CARTON ARABIC 11",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1756749",
@@ -1353,7 +1353,7 @@
             },
             {
               "name": "CARTON ARABIC 12",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1756935",
@@ -1364,7 +1364,7 @@
             },
             {
               "name": "CARTON ARABIC 13",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1756936",
@@ -1375,7 +1375,7 @@
             },
             {
               "name": "CARTON ARABIC 14",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1756937",
@@ -1386,7 +1386,7 @@
             },
             {
               "name": "CARTON ARABIC 15",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1761301",
@@ -1397,7 +1397,7 @@
             },
             {
               "name": "CARTON ARABIC 16",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1761302",
@@ -1408,7 +1408,7 @@
             },
             {
               "name": "CARTON ARABIC 17",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1761303",
@@ -1419,7 +1419,7 @@
             },
             {
               "name": "CARTON ARABIC 18",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1763212",
@@ -1430,7 +1430,7 @@
             },
             {
               "name": "CARTON ARABIC 19",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1763213",
@@ -1441,7 +1441,7 @@
             },
             {
               "name": "CARTON ARABIC 2",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1749544",
@@ -1452,7 +1452,7 @@
             },
             {
               "name": "CARTON ARABIC 20",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1763214",
@@ -1463,7 +1463,7 @@
             },
             {
               "name": "CARTON ARABIC 21",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1766913",
@@ -1474,7 +1474,7 @@
             },
             {
               "name": "CARTON ARABIC 22",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1766914",
@@ -1485,7 +1485,7 @@
             },
             {
               "name": "CARTON ARABIC 23",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1766915",
@@ -1496,7 +1496,7 @@
             },
             {
               "name": "CARTON ARABIC 3",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1749545",
@@ -1507,7 +1507,7 @@
             },
             {
               "name": "CARTON ARABIC 4",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1749546",
@@ -1518,7 +1518,7 @@
             },
             {
               "name": "CARTON ARABIC 5",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1749547",
@@ -1529,7 +1529,7 @@
             },
             {
               "name": "CARTON ARABIC 6",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1749548",
@@ -1540,7 +1540,7 @@
             },
             {
               "name": "CARTON ARABIC 7",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1752069",
@@ -1551,7 +1551,7 @@
             },
             {
               "name": "CARTON ARABIC 8",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1752070",
@@ -1562,7 +1562,7 @@
             },
             {
               "name": "CARTON ARABIC 9",
-              "icon": "https://m.media-amazon.com/images/I/81lMze0KAkL.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/carton%20arabic.png",
               "streams": [
                 {
                   "id": "1756747",
