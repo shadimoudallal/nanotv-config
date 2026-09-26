@@ -1574,6 +1574,219 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Sports",
+      "categories": [
+        {
+          "category": "|AR| ✪ BEIN SPORT HD",
+          "channels": [
+            {
+              "name": "beIN Sports 1",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png",
+              "streams": [
+                {
+                  "id": "1",
+                  "name": "beIN Sports 1 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 2",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png",
+              "streams": [
+                {
+                  "id": "2",
+                  "name": "beIN Sports 2 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 3",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png",
+              "streams": [
+                {
+                  "id": "4",
+                  "name": "beIN Sports 3 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 4",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png",
+              "streams": [
+                {
+                  "id": "5",
+                  "name": "beIN Sports 4 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 5",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png",
+              "streams": [
+                {
+                  "id": "6",
+                  "name": "beIN Sports 5 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 6",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png",
+              "streams": [
+                {
+                  "id": "7",
+                  "name": "beIN Sports 6 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 7",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png",
+              "streams": [
+                {
+                  "id": "8",
+                  "name": "beIN Sports 7 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 8",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png",
+              "streams": [
+                {
+                  "id": "9",
+                  "name": "beIN Sports 8 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN Sports 9",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png",
+              "streams": [
+                {
+                  "id": "10",
+                  "name": "beIN Sports 9 HD",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "|AR| ✪ BEIN SPORT ULTRA ᵁᴴᴰ",
+          "channels": [
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 1",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png",
+              "streams": [
+                {
+                  "id": "623331",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 1",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT1HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 2",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png",
+              "streams": [
+                {
+                  "id": "623332",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 2",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT2HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 3",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png",
+              "streams": [
+                {
+                  "id": "623333",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 3",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT3HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 4",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png",
+              "streams": [
+                {
+                  "id": "623334",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 4",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT4HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 5",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png",
+              "streams": [
+                {
+                  "id": "623335",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 5",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT5HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 6",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png",
+              "streams": [
+                {
+                  "id": "623336",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 6",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT6HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 7",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png",
+              "streams": [
+                {
+                  "id": "623337",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 7",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT7HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 8",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png",
+              "streams": [
+                {
+                  "id": "623338",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 8",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT8HD.png"
+                }
+              ]
+            },
+            {
+              "name": "beIN SPORTS ULTRA ᵁᴴᴰ 9",
+              "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png",
+              "streams": [
+                {
+                  "id": "623339",
+                  "name": "beIN SPORTS ULTRA ᵁᴴᴰ 9",
+                  "icon": "http://57.128.182.77:8080/BEIN/bein-sport/BEINSPORT9HD.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
