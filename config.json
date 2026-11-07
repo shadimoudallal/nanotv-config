@@ -8,7 +8,7 @@
           "channels": [
             {
               "name": "Al Jazeera Al an",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/AlJazeera.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljazeera-now.jpeg",
               "streams": [
                 {
                   "id": "516641",
@@ -19,7 +19,7 @@
             },
             {
               "name": "AR: Al Arabiya",
-              "icon": "http://194.163.160.164/NEWS/ALARABIA.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/alarabia.png",
               "streams": [
                 {
                   "id": "33177",
@@ -41,7 +41,7 @@
             },
             {
               "name": "AR: Al Jazeera",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/AlJazeera.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljazeera.jpeg",
               "streams": [
                 {
                   "id": "478715",
@@ -52,7 +52,7 @@
             },
             {
               "name": "AR: BBC NEWS",
-              "icon": "http://194.163.160.164/NEWS/BBCARABI.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/bbc-arabic.jpg",
               "streams": [
                 {
                   "id": "1063",
@@ -107,7 +107,7 @@
             },
             {
               "name": "EN: CNN",
-              "icon": "http://194.163.160.164/NEWS/CNN.png",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cnn_logo.png",
               "streams": [
                 {
                   "id": "3237",
