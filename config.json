@@ -267,6 +267,230 @@
           ]
         }
       ]
+    },
+    {
+      "title": "kids",
+      "categories": [
+        {
+          "category": "AR | Kids ",
+          "channels": [
+            {
+              "name": "Bein Cartoon Network",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cartoon_Network.svg",
+              "streams": [
+                {
+                  "id": "10152",
+                  "name": "Bein Cartoon Network HD",
+                  "icon": "http://194.163.160.164/BEIN/BEIN.CARTOON.NETWORK.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- Disney",
+              "icon": "http://194.163.160.164/KIDS/DISNEYCHANNEL.png",
+              "streams": [
+                {
+                  "id": "37025",
+                  "name": "Kid- Disney HD",
+                  "icon": "http://194.163.160.164/KIDS/DISNEYCHANNEL.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- Disney Junior",
+              "icon": "http://194.163.160.164/KIDS/DISNEYJUNIOR.png",
+              "streams": [
+                {
+                  "id": "37029",
+                  "name": "Kid- Disney Junior HD",
+                  "icon": "http://194.163.160.164/KIDS/DISNEYJUNIOR.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- Kids Zone",
+              "icon": "http://194.163.160.164/KIDS/KIDSZONE.png",
+              "streams": [
+                {
+                  "id": "37031",
+                  "name": "Kid- Kids Zone HD",
+                  "icon": "http://194.163.160.164/KIDS/KIDSZONE.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- Mickey Channel",
+              "icon": "http://194.163.160.164/KIDS/MICKEY.png",
+              "streams": [
+                {
+                  "id": "20944",
+                  "name": "Kid- Mickey Channel",
+                  "icon": "http://194.163.160.164/KIDS/MICKEY.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- Nick Jr",
+              "icon": "http://194.163.160.164/KIDS/NickJr.png",
+              "streams": [
+                {
+                  "id": "37026",
+                  "name": "Kid- Nick Jr HD",
+                  "icon": "http://194.163.160.164/KIDS/NickJr.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- Nickelodeon",
+              "icon": "http://194.163.160.164/KIDS/NICKELODEON.png",
+              "streams": [
+                {
+                  "id": "37024",
+                  "name": "Kid- Nickelodeon HD",
+                  "icon": "http://194.163.160.164/KIDS/NICKELODEON.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- NickToon",
+              "icon": "http://194.163.160.164/KIDS/NickToon.png",
+              "streams": [
+                {
+                  "id": "37027",
+                  "name": "Kid- NickToon HD",
+                  "icon": "http://194.163.160.164/KIDS/NickToon.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- Rotana Kids",
+              "icon": "http://194.163.160.164/ROTANA/ROTANAKIDS.png",
+              "streams": [
+                {
+                  "id": "13384",
+                  "name": "Kid- Rotana Kids HD",
+                  "icon": "http://194.163.160.164/ROTANA/ROTANAKIDS.png"
+                }
+              ]
+            },
+            {
+              "name": "Kid- SpaceToon",
+              "icon": "http://194.163.160.164/KIDS/SPACETOON.png",
+              "streams": [
+                {
+                  "id": "7053",
+                  "name": "Kid- SpaceToon",
+                  "icon": "http://194.163.160.164/KIDS/SPACETOON.png"
+                }
+              ]
+            },
+            {
+              "name": "Kids 6",
+              "icon": "http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png",
+              "streams": [
+                {
+                  "id": "215382",
+                  "name": "Kids 6",
+                  "icon": "http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "UK Kids",
+          "channels": [
+            {
+              "name": "Uk- CARTOONITO",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Cartoonito.png",
+              "streams": [
+                {
+                  "id": "30868",
+                  "name": "Uk- CARTOONITO",
+                  "icon": "http://www.vod-logo.net/photos/293e7bf8b3a5873d50ad2a751f979f21.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Uk- NICKELODEON",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nickelodeon.png",
+              "streams": [
+                {
+                  "id": "30869",
+                  "name": "Uk- NICKELODEON",
+                  "icon": "https://i.ibb.co/T2qLLFb/Asset-154-28x-100.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Uk- RTE JUNIOR",
+              "icon": "http://www.vod-logo.net/photos/f97e039a9d6b4e104b6c125dc0e5e4e3.png",
+              "streams": [
+                {
+                  "id": "30867",
+                  "name": "Uk- RTE JUNIOR",
+                  "icon": "http://www.vod-logo.net/photos/f97e039a9d6b4e104b6c125dc0e5e4e3.png"
+                }
+              ]
+            },
+            {
+              "name": "Uk- Sky Cartoon Network",
+              "icon": "http://www.vod-logo.net/photos/918ed66fc55bb226ff2c85716da1c90c.jpg",
+              "streams": [
+                {
+                  "id": "8576",
+                  "name": "Uk- Sky Cartoon Network",
+                  "icon": "http://www.vod-logo.net/photos/918ed66fc55bb226ff2c85716da1c90c.jpg"
+                }
+              ]
+            },
+            {
+              "name": "UK: Cbeebies",
+              "icon": "https://i.ibb.co/j8t5HGg/Asset-7-28x-100.jpg",
+              "streams": [
+                {
+                  "id": "309142",
+                  "name": "UK: Cbeebies",
+                  "icon": "https://i.ibb.co/j8t5HGg/Asset-7-28x-100.jpg"
+                }
+              ]
+            },
+            {
+              "name": "UK: Disney Channel",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Disney.png",
+              "streams": [
+                {
+                  "id": "103667",
+                  "name": "UK: Disney Channel",
+                  "icon": "https://i.ibb.co/nBXMyfG/43.png"
+                }
+              ]
+            },
+            {
+              "name": "UK: Disney Junior UK",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/disney-junior.png",
+              "streams": [
+                {
+                  "id": "103669",
+                  "name": "UK: Disney Junior UK",
+                  "icon": "https://i.ibb.co/dBLcB7B/Asset-1116-28x.png"
+                }
+              ]
+            },
+            {
+              "name": "UK: Nick Jr Too UK",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/Nick_JR.svg",
+              "streams": [
+                {
+                  "id": "103672",
+                  "name": "UK: Nick Jr Too UK",
+                  "icon": "https://www.logolynx.com/images/logolynx/df/df5c78843520f4b40ece98af65761d22.jpeg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
