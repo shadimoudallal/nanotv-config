@@ -25,6 +25,11 @@
                   "id": "33177",
                   "name": "AR:  Al Arabiya FHD",
                   "icon": "http://194.163.160.164/NEWS/ALARABIA.png"
+                },
+                {
+                  "id": "2288",
+                  "name": "AR:  Al Arabiya FHD -B",
+                  "icon": "http://194.163.160.164/NEWS/ALARABIA.png"
                 }
               ]
             },
@@ -36,6 +41,11 @@
                   "id": "33176",
                   "name": "AR: Al Hadath FHD",
                   "icon": "http://194.163.160.164/NEWS/ALHADAS.png"
+                },
+                {
+                  "id": "95441",
+                  "name": "AR: Al Hadath FHD -B",
+                  "icon": "http://194.163.160.164/NEWS/ALHADAS.png"
                 }
               ]
             },
@@ -46,6 +56,11 @@
                 {
                   "id": "478715",
                   "name": "AR: Al Jazeera FHD",
+                  "icon": "http://194.163.160.164/NEWS/ALJAZEERA.png"
+                },
+                {
+                  "id": "95444",
+                  "name": "AR: Al Jazeera FHD -B",
                   "icon": "http://194.163.160.164/NEWS/ALJAZEERA.png"
                 }
               ]
