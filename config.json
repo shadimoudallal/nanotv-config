@@ -7,17 +7,6 @@
           "category": "News ",
           "channels": [
             {
-              "name": "Al Jazeera Al an",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljazeera-now.jpeg",
-              "streams": [
-                {
-                  "id": "516641",
-                  "name": "Al Jazeera Al an",
-                  "icon": ""
-                }
-              ]
-            },
-            {
               "name": "AR: Al Arabiya",
               "icon": "https://shadimoudallal.github.io/nanotv-config/logos/alarabia.png",
               "streams": [
@@ -66,13 +55,39 @@
               ]
             },
             {
+              "name": "AR: Al Jazeera Mubasher",
+              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/aljazeera-now.jpeg",
+              "streams": [
+                {
+                  "id": "516641",
+                  "name": "Al Jazeera Al an",
+                  "icon": ""
+                },
+                {
+                  "id": "13436",
+                  "name": "AR:  Al Jazeera Mubasher HD",
+                  "icon": "http://194.163.160.164/NEWS/ALJAZEERAMUBASHER.png"
+                },
+                {
+                  "id": "95447",
+                  "name": "AR: Al Jazeera Mubasher FHD",
+                  "icon": "http://194.163.160.164/NEWS/ALJAZEERAMUBASHER.png"
+                }
+              ]
+            },
+            {
               "name": "AR: BBC NEWS",
-              "icon": "https://shadimoudallal.github.io/nanotv-config/logos/bbc-arabic.jpg",
+              "icon": "http://194.163.160.164/NEWS/BBCARABI.png",
               "streams": [
                 {
                   "id": "1063",
                   "name": "AR: BBC NEWS",
                   "icon": "http://194.163.160.164/NEWS/BBCARABI.png"
+                },
+                {
+                  "id": "3239",
+                  "name": "EN: BBC World News FHD",
+                  "icon": "http://194.163.160.164/NEWS/BBCWORLDNEWS.png"
                 }
               ]
             },
@@ -95,6 +110,38 @@
                   "id": "95465",
                   "name": "AR: France 24 Arabic",
                   "icon": "http://194.163.160.164/NEWS/FRANCE24.png"
+                },
+                {
+                  "id": "2748",
+                  "name": "AR: France 24 Arabic HD",
+                  "icon": "http://194.163.160.164/NEWS/FRANCE24.png"
+                }
+              ]
+            },
+            {
+              "name": "AR: i24 News Arabic",
+              "icon": "http://194.163.160.164/NEWS/I24NEWS.png",
+              "streams": [
+                {
+                  "id": "20943",
+                  "name": "AR: i24 News Arabic",
+                  "icon": "http://194.163.160.164/NEWS/I24NEWS.png"
+                }
+              ]
+            },
+            {
+              "name": "AR: RT Arabic",
+              "icon": "http://194.163.160.164/NEWS/RT.png",
+              "streams": [
+                {
+                  "id": "95485",
+                  "name": "AR: RT Arabic",
+                  "icon": "http://194.163.160.164/NEWS/RT.png"
+                },
+                {
+                  "id": "95484",
+                  "name": "RT Arabic HD",
+                  "icon": "http://194.163.160.164/NEWS/RT.png"
                 }
               ]
             },
@@ -117,6 +164,22 @@
                   "id": "95490",
                   "name": "AR: TRT Arabic",
                   "icon": "http://194.163.160.164/NEWS/TRTARABI.png"
+                },
+                {
+                  "id": "13507",
+                  "name": "AR: TRT Arabic HD",
+                  "icon": "http://194.163.160.164/NEWS/TRTARABI.png"
+                }
+              ]
+            },
+            {
+              "name": "BBC Arabic",
+              "icon": "http://194.163.160.164/NEWS/BBCARABI.png",
+              "streams": [
+                {
+                  "id": "294203",
+                  "name": "BBC Arabic",
+                  "icon": "http://194.163.160.164/NEWS/BBCARABI.png"
                 }
               ]
             },
@@ -150,6 +213,28 @@
                   "id": "95487",
                   "name": "EN: Sky News",
                   "icon": "http://194.163.160.164/NEWS/SKYNEWS.png"
+                }
+              ]
+            },
+            {
+              "name": "FR: France 24 (en Francais)",
+              "icon": "http://194.163.160.164/NEWS/FRANCE24.png",
+              "streams": [
+                {
+                  "id": "95467",
+                  "name": "FR: France 24 (en Francais)",
+                  "icon": "http://194.163.160.164/NEWS/FRANCE24.png"
+                }
+              ]
+            },
+            {
+              "name": "NEWS: Bloomberg",
+              "icon": "http://194.163.160.164/NEWS/BLOOMBERG.png",
+              "streams": [
+                {
+                  "id": "95456",
+                  "name": "NEWS: Bloomberg",
+                  "icon": "http://194.163.160.164/NEWS/BLOOMBERG.png"
                 }
               ]
             },
